@@ -1,0 +1,5126 @@
+{
+    ":pound:": {
+        "alt": "💷",
+        "class": "e1432 c5 emoji"
+    },
+    ":basketball_player:": {
+        "alt": "⛹",
+        "class": "e133 c3 emoji"
+    },
+    ":flag-la:": {
+        "alt": "🇱🇦",
+        "class": "e355 c7 emoji"
+    },
+    ":arrow_double_up:": {
+        "alt": "⏫",
+        "class": "e32 c6 emoji"
+    },
+    ":earth_africa:": {
+        "alt": "🌍",
+        "class": "e505 c1 emoji"
+    },
+    ":flag-fo:": {
+        "alt": "🇫🇴",
+        "class": "e303 c7 emoji"
+    },
+    ":microscope:": {
+        "alt": "🔬",
+        "class": "e1548 c5 emoji"
+    },
+    ":confounded:": {
+        "alt": "😖",
+        "class": "e1698 c0 emoji"
+    },
+    ":corn:": {
+        "alt": "🌽",
+        "class": "e551 c2 emoji"
+    },
+    ":bed_empty:": {
+        "alt": "🛏",
+        "class": "e1955 c5 emoji"
+    },
+    ":bulking:": {
+        "alt": "🏋",
+        "class": "e731 c3 emoji"
+    },
+    ":knobs:": {
+        "alt": "🎛",
+        "class": "e647 c5 emoji"
+    },
+    ":clap:": {
+        "alt": "👏",
+        "class": "e939 c0 emoji"
+    },
+    ":applause:": {
+        "alt": "👏",
+        "class": "e939 c0 emoji"
+    },
+    ":shuffle:": {
+        "alt": "🔀",
+        "class": "e1504 c6 emoji"
+    },
+    ":yen:": {
+        "alt": "💴",
+        "class": "e1429 c5 emoji"
+    },
+    "snowman_snow": {
+        "alt": "☃",
+        "class": "e56 c1 emoji"
+    },
+    ":arrow_backward:": {
+        "alt": "◀",
+        "class": "e48 c6 emoji"
+    },
+    ":shaved_ice:": {
+        "alt": "🍧",
+        "class": "e593 c2 emoji"
+    },
+    ":snowflake:": {
+        "alt": "❄",
+        "class": "e184 c1 emoji"
+    },
+    ":sa:": {
+        "alt": "🈂",
+        "class": "e478 c6 emoji"
+    },
+    ":weary:": {
+        "alt": "😩",
+        "class": "e1717 c0 emoji"
+    },
+    ":christmas_tree:": {
+        "alt": "🎄",
+        "class": "e622 c1 emoji"
+    },
+    ":kissing:": {
+        "alt": "😗",
+        "class": "e1699 c0 emoji"
+    },
+    "SHORTCODE_148": {
+        "alt": "🙆",
+        "class": "e1758 c0 emoji"
+    },
+    ":laughing:": {
+        "alt": "😆",
+        "class": "e1682 c0 emoji"
+    },
+    ":arrow_heading_up:": {
+        "alt": "⤴",
+        "class": "e200 c6 emoji"
+    },
+    ":dog:": {
+        "alt": "🐶",
+        "class": "e858 c1 emoji"
+    },
+    ":fish:": {
+        "alt": "🐟",
+        "class": "e835 c1 emoji"
+    },
+    ":barber:": {
+        "alt": "💈",
+        "class": "e1376 c5 emoji"
+    },
+    ":ear:": {
+        "alt": "👂",
+        "class": "e871 c0 emoji"
+    },
+    ":cycling:": {
+        "alt": "🚴",
+        "class": "e1895 c3 emoji"
+    },
+    ":whip:": {
+        "alt": "📿",
+        "class": "e1503 c5 emoji"
+    },
+    ":palm_tree:": {
+        "alt": "🌴",
+        "class": "e542 c1 emoji"
+    },
+    "no_good": {
+        "alt": "🙅",
+        "class": "e1746 c0 emoji"
+    },
+    ":mushroom:": {
+        "alt": "🍄",
+        "class": "e558 c1 emoji"
+    },
+    ":crescent_moon:": {
+        "alt": "🌙",
+        "class": "e517 c1 emoji"
+    },
+    ":flag-sl:": {
+        "alt": "🇸🇱",
+        "class": "e430 c7 emoji"
+    },
+    ":golf:": {
+        "alt": "⛳",
+        "class": "e128 c3 emoji"
+    },
+    ":dog2:": {
+        "alt": "🐕",
+        "class": "e825 c1 emoji"
+    },
+    ":dart:": {
+        "alt": "🎯",
+        "class": "e665 c3 emoji"
+    },
+    ":light_rail:": {
+        "alt": "🚈",
+        "class": "e1840 c4 emoji"
+    },
+    ":swords:": {
+        "alt": "⚔",
+        "class": "e100 c5 emoji"
+    },
+    ":flag-ye:": {
+        "alt": "🇾🇪",
+        "class": "e472 c7 emoji"
+    },
+    ":ribbon": {
+        "alt": "🎗",
+        "class": "e644 c3 emoji"
+    },
+    ":nail_varnish:": {
+        "alt": "💅",
+        "class": "e1346 c0 emoji"
+    },
+    ":bike:": {
+        "alt": "🚲",
+        "class": "e1893 c4 emoji"
+    },
+    ":part_alternation_mark:": {
+        "alt": "〽",
+        "class": "e210 c6 emoji"
+    },
+    ":clock330:": {
+        "alt": "🕞",
+        "class": "e1586 c6 emoji"
+    },
+    ":arrow_upper_right:": {
+        "alt": "↗",
+        "class": "e22 c6 emoji"
+    },
+    ":dove:": {
+        "alt": "🕊",
+        "class": "e1567 c1 emoji"
+    },
+    ":soon:": {
+        "alt": "🔜",
+        "class": "e1532 c6 emoji"
+    },
+    ":factory:": {
+        "alt": "🏭",
+        "class": "e787 c4 emoji"
+    },
+    ":ramen:": {
+        "alt": "🍜",
+        "class": "e582 c2 emoji"
+    },
+    ":arrow_up:": {
+        "alt": "⬆",
+        "class": "e203 c6 emoji"
+    },
+    ":coffee:": {
+        "alt": "☕",
+        "class": "e61 c2 emoji"
+    },
+    ":car:": {
+        "alt": "🚗",
+        "class": "e1855 c4 emoji"
+    },
+    ":flag-to:": {
+        "alt": "🇹🇴",
+        "class": "e451 c7 emoji"
+    },
+    ":war_ship:": {
+        "alt": "🛥",
+        "class": "e1964 c4 emoji"
+    },
+    ":flag-ms:": {
+        "alt": "🇲🇸",
+        "class": "e380 c7 emoji"
+    },
+    ":jack_o_lantern:": {
+        "alt": "🎃",
+        "class": "e621 c0 emoji"
+    },
+    ":flag-do:": {
+        "alt": "🇩🇴",
+        "class": "e289 c7 emoji"
+    },
+    ":thought_balloon:": {
+        "alt": "💭",
+        "class": "e1422 c6 emoji"
+    },
+    ":leo:": {
+        "alt": "♌",
+        "class": "e83 c6 emoji"
+    },
+    ":question:": {
+        "alt": "❓",
+        "class": "e188 c6 emoji"
+    },
+    ":dolls:": {
+        "alt": "🎎",
+        "class": "e637 c5 emoji"
+    },
+    ":clamps:": {
+        "alt": "🗜",
+        "class": "e1662 c5 emoji"
+    },
+    ":left_right_arrow:": {
+        "alt": "↔",
+        "class": "e19 c6 emoji"
+    },
+    ":flag-ro:": {
+        "alt": "🇷🇴",
+        "class": "e417 c7 emoji"
+    },
+    ":goat:": {
+        "alt": "🐐",
+        "class": "e820 c1 emoji"
+    },
+    ":mailbox_with_mail:": {
+        "alt": "📬",
+        "class": "e1485 c5 emoji"
+    },
+    ":kissing_cat:": {
+        "alt": "😽",
+        "class": "e1737 c0 emoji"
+    },
+    ":dragon:": {
+        "alt": "🐉",
+        "class": "e813 c1 emoji"
+    },
+    ":school_satchel:": {
+        "alt": "🎒",
+        "class": "e641 c0 emoji"
+    },
+    ":landing:": {
+        "alt": "🛬",
+        "class": "e1967 c4 emoji"
+    },
+    ":symbols:": {
+        "alt": "🔣",
+        "class": "e1539 c6 emoji"
+    },
+    ":satellite:": {
+        "alt": "📡",
+        "class": "e1474 c5 emoji"
+    },
+    ":flag-gr:": {
+        "alt": "🇬🇷",
+        "class": "e318 c7 emoji"
+    },
+    ":princess:": {
+        "alt": "👸",
+        "class": "e1296 c0 emoji"
+    },
+    ":hammer:": {
+        "alt": "🔨",
+        "class": "e1544 c5 emoji"
+    },
+    ":arrow_left:": {
+        "alt": "⬅",
+        "class": "e202 c6 emoji"
+    },
+    ":tornado:": {
+        "alt": "🌪",
+        "class": "e532 c1 emoji"
+    },
+    ":womens:": {
+        "alt": "🚺",
+        "class": "e1934 c6 emoji"
+    },
+    ":yum:": {
+        "alt": "😋",
+        "class": "e1687 c0 emoji"
+    },
+    ":persevere:": {
+        "alt": "😣",
+        "class": "e1711 c0 emoji"
+    },
+    ":flag-pf:": {
+        "alt": "🇵🇫",
+        "class": "e403 c7 emoji"
+    },
+    ":heart:": {
+        "alt": "❤",
+        "class": "e193 c6 emoji"
+    },
+    ":rooster:": {
+        "alt": "🐓",
+        "class": "e823 c1 emoji"
+    },
+    ":two_men_holding_hands:": {
+        "alt": "👬",
+        "class": "e1214 c0 emoji"
+    },
+    ":paint_brush:": {
+        "alt": "🖌",
+        "class": "e1630 c5 emoji"
+    },
+    ":eggplant:": {
+        "alt": "🍆",
+        "class": "e560 c2 emoji"
+    },
+    ":fast_forward:": {
+        "alt": "⏩",
+        "class": "e30 c6 emoji"
+    },
+    ":flag-gp:": {
+        "alt": "🇬🇵",
+        "class": "e316 c7 emoji"
+    },
+    ":clock5:": {
+        "alt": "🕔",
+        "class": "e1576 c6 emoji"
+    },
+    ":flag-ma:": {
+        "alt": "🇲🇦",
+        "class": "e366 c7 emoji"
+    },
+    ":monkey:": {
+        "alt": "🐒",
+        "class": "e822 c1 emoji"
+    },
+    ":smoking:": {
+        "alt": "🚬",
+        "class": "e1887 c5 emoji"
+    },
+    ":train_in_tunnel:": {
+        "alt": "🚇",
+        "class": "e1839 c4 emoji"
+    },
+    ":pray:": {
+        "alt": "🙏",
+        "class": "e1826 c0 emoji"
+    },
+    ":flag-nc:": {
+        "alt": "🇳🇨",
+        "class": "e389 c7 emoji"
+    },
+    ":sad_very_2:": {
+        "alt": "☹",
+        "class": "e77 c0 emoji"
+    },
+    ":flag-uy:": {
+        "alt": "🇺🇾",
+        "class": "e460 c7 emoji"
+    },
+    ":iphone:": {
+        "alt": "📱",
+        "class": "e1490 c5 emoji"
+    },
+    ":film_reel:": {
+        "alt": "🎞",
+        "class": "e648 c5 emoji"
+    },
+    ":flag-mx:": {
+        "alt": "🇲🇽",
+        "class": "e385 c7 emoji"
+    },
+    ":congratulations:": {
+        "alt": "㊗",
+        "class": "e211 c6 emoji"
+    },
+    ":traffic_light:": {
+        "alt": "🚥",
+        "class": "e1880 c4 emoji"
+    },
+    ":copyright:": {
+        "alt": "©",
+        "class": "e13 c6 emoji"
+    },
+    ":scream:": {
+        "alt": "😱",
+        "class": "e1725 c0 emoji"
+    },
+    ":family:": {
+        "alt": "👪",
+        "class": "e1198 c0 emoji"
+    },
+    ":storm_clouds:": {
+        "alt": "⛈",
+        "class": "e117 c1 emoji"
+    },
+    ":zap:": {
+        "alt": "⚡",
+        "class": "e108 c1 emoji"
+    },
+    ":rotating_light:": {
+        "alt": "🚨",
+        "class": "e1883 c4 emoji"
+    },
+    ":flag-xk:": {
+        "alt": "🇽🇰",
+        "class": "e471 c7 emoji"
+    },
+    ":secret:": {
+        "alt": "㊙",
+        "class": "e212 c6 emoji"
+    },
+    ":scream_cat:": {
+        "alt": "🙀",
+        "class": "e1740 c0 emoji"
+    },
+    ":flag-mq:": {
+        "alt": "🇲🇶",
+        "class": "e378 c7 emoji"
+    },
+    ":full_moon:": {
+        "alt": "🌕",
+        "class": "e513 c1 emoji"
+    },
+    ":hotel:": {
+        "alt": "🏨",
+        "class": "e782 c4 emoji"
+    },
+    ":flag-sg:": {
+        "alt": "🇸🇬",
+        "class": "e426 c7 emoji"
+    },
+    ":flag-bo:": {
+        "alt": "🇧🇴",
+        "class": "e258 c7 emoji"
+    },
+    ":kissing_smiling_eyes:": {
+        "alt": "😙",
+        "class": "e1701 c0 emoji"
+    },
+    ":popcorn:": {
+        "alt": "🍿",
+        "class": "e617 c2 emoji"
+    },
+    ":eight:": {
+        "alt": "8⃣",
+        "class": "e11 c6 emoji"
+    },
+    ":flag-hr:": {
+        "alt": "🇭🇷",
+        "class": "e326 c7 emoji"
+    },
+    "SHORTCODE_454": {
+        "alt": "🏵",
+        "class": "e794 c3 emoji"
+    },
+    "medal-star": {
+        "alt": "🎖",
+        "class": "e643 c3 emoji"
+    },
+    ":pensive:": {
+        "alt": "😔",
+        "class": "e1696 c0 emoji"
+    },
+    ":information_source:": {
+        "alt": "ℹ",
+        "class": "e18 c6 emoji"
+    },
+    ":pickaxe:": {
+        "alt": "⛏",
+        "class": "e119 c5 emoji"
+    },
+    ":snail:": {
+        "alt": "🐌",
+        "class": "e816 c1 emoji"
+    },
+    ":fog:": {
+        "alt": "🌫",
+        "class": "e533 c1 emoji"
+    },
+    ":flag-tv:": {
+        "alt": "🇹🇻",
+        "class": "e454 c7 emoji"
+    },
+    ":flag-gd:": {
+        "alt": "🇬🇩",
+        "class": "e307 c7 emoji"
+    },
+    ":flag-hk:": {
+        "alt": "🇭🇰",
+        "class": "e324 c7 emoji"
+    },
+    ":shower:": {
+        "alt": "🚿",
+        "class": "e1939 c5 emoji"
+    },
+    ":inquisitive:": {
+        "alt": "🤔",
+        "class": "e1977 c0 emoji"
+    },
+    ":high_heel:": {
+        "alt": "👠",
+        "class": "e966 c0 emoji"
+    },
+    ":penguin:": {
+        "alt": "🐧",
+        "class": "e843 c1 emoji"
+    },
+    ":four:": {
+        "alt": "4⃣",
+        "class": "e7 c6 emoji"
+    },
+    ":see_no_evil:": {
+        "alt": "🙈",
+        "class": "e1781 c1 emoji"
+    },
+    ":unamused:": {
+        "alt": "😒",
+        "class": "e1694 c0 emoji"
+    },
+    ":sleepy:": {
+        "alt": "😪",
+        "class": "e1718 c0 emoji"
+    },
+    ":astonished:": {
+        "alt": "😲",
+        "class": "e1726 c0 emoji"
+    },
+    ":jeans:": {
+        "alt": "👖",
+        "class": "e956 c0 emoji"
+    },
+    ":shoe:": {
+        "alt": "👟",
+        "class": "e965 c0 emoji"
+    },
+    ":pen:": {
+        "alt": "🖊",
+        "class": "e1628 c5 emoji"
+    },
+    ":film_camera:": {
+        "alt": "📽",
+        "class": "e1502 c5 emoji"
+    },
+    ":arrows_counterclockwise:": {
+        "alt": "🔄",
+        "class": "e1508 c6 emoji"
+    },
+    ":stuck_out_tongue_winking_eye:": {
+        "alt": "😜",
+        "class": "e1704 c0 emoji"
+    },
+    ":sparkle:": {
+        "alt": "❇",
+        "class": "e185 c6 emoji"
+    },
+    ":flag-io:": {
+        "alt": "🇮🇴",
+        "class": "e335 c7 emoji"
+    },
+    ":point_left:": {
+        "alt": "👈",
+        "class": "e897 c0 emoji"
+    },
+    ":handbag:": {
+        "alt": "👜",
+        "class": "e962 c0 emoji"
+    },
+    ":paw_prints:": {
+        "alt": "🐾",
+        "class": "e866 c1 emoji"
+    },
+    ":busts_in_silhouette:": {
+        "alt": "👥",
+        "class": "e971 c0 emoji"
+    },
+    ":flag-ao:": {
+        "alt": "🇦🇴",
+        "class": "e237 c7 emoji"
+    },
+    ":full_moon_with_face:": {
+        "alt": "🌝",
+        "class": "e521 c1 emoji"
+    },
+    ":cake:": {
+        "alt": "🍰",
+        "class": "e602 c2 emoji"
+    },
+    ":highway:": {
+        "alt": "🛣",
+        "class": "e1962 c4 emoji"
+    },
+    ":bell:": {
+        "alt": "🔔",
+        "class": "e1524 c6 emoji"
+    },
+    ":family_11:": {
+        "alt": "👨‍👨‍👧",
+        "class": "e1195 c0 emoji"
+    },
+    ":flag-pt:": {
+        "alt": "🇵🇹",
+        "class": "e412 c7 emoji"
+    },
+    ":flag-st:": {
+        "alt": "🇸🇹",
+        "class": "e436 c7 emoji"
+    },
+    ":moneybag:": {
+        "alt": "💰",
+        "class": "e1425 c5 emoji"
+    },
+    ":relieved:": {
+        "alt": "😌",
+        "class": "e1688 c0 emoji"
+    },
+    ":flag-kw:": {
+        "alt": "🇰🇼",
+        "class": "e352 c7 emoji"
+    },
+    ":bullettrain_front:": {
+        "alt": "🚆",
+        "class": "e1838 c4 emoji"
+    },
+    ":flag-hu:": {
+        "alt": "🇭🇺",
+        "class": "e328 c7 emoji"
+    },
+    ":id:": {
+        "alt": "🆔",
+        "class": "e223 c6 emoji"
+    },
+    ":sun_with_face:": {
+        "alt": "🌞",
+        "class": "e522 c1 emoji"
+    },
+    ":flag-mo:": {
+        "alt": "🇲🇴",
+        "class": "e376 c7 emoji"
+    },
+    ":calendar_day:": {
+        "alt": "🗓",
+        "class": "e1661 c5 emoji"
+    },
+    ":high_brightness:": {
+        "alt": "🔆",
+        "class": "e1510 c6 emoji"
+    },
+    ":rain_clouds:": {
+        "alt": "🌧",
+        "class": "e529 c1 emoji"
+    },
+    ":crossed_flags:": {
+        "alt": "🎌",
+        "class": "e635 c7 emoji"
+    },
+    ":bath:": {
+        "alt": "🛀",
+        "class": "e1940 c5 emoji"
+    },
+    ":eye:": {
+        "alt": "👁",
+        "class": "e869 c0 emoji"
+    },
+    ":beer:": {
+        "alt": "🍺",
+        "class": "e612 c2 emoji"
+    },
+    ":bed:": {
+        "alt": "🛌",
+        "class": "e1952 c5 emoji"
+    },
+    ":flag-sh:": {
+        "alt": "🇸🇭",
+        "class": "e427 c7 emoji"
+    },
+    ":flag-by:": {
+        "alt": "🇧🇾",
+        "class": "e264 c7 emoji"
+    },
+    ":guitar:": {
+        "alt": "🎻",
+        "class": "e677 c3 emoji"
+    },
+    ":phone:": {
+        "alt": "☎",
+        "class": "e58 c5 emoji"
+    },
+    ":pig:": {
+        "alt": "🐷",
+        "class": "e859 c1 emoji"
+    },
+    ":doughnut:": {
+        "alt": "🍩",
+        "class": "e595 c2 emoji"
+    },
+    "not-found-:two_men_with_heart:": {
+        "alt": "◼",
+        "class": "emojie50"
+    },
+    ":clock430:": {
+        "alt": "🕟",
+        "class": "e1587 c6 emoji"
+    },
+    ":panda_face:": {
+        "alt": "🐼",
+        "class": "e864 c1 emoji"
+    },
+    "top_hat": {
+        "alt": "🎩",
+        "class": "e659 c0 emoji"
+    },
+    ":no_smoking:": {
+        "alt": "🚭",
+        "class": "e1888 c6 emoji"
+    },
+    ":champagne:": {
+        "alt": "🍾",
+        "class": "e616 c2 emoji"
+    },
+    ":surfing:": {
+        "alt": "🏄",
+        "class": "e697 c3 emoji"
+    },
+    ":tulip:": {
+        "alt": "🌷",
+        "class": "e545 c1 emoji"
+    },
+    ":baseball:": {
+        "alt": "⚾",
+        "class": "e114 c3 emoji"
+    },
+    "baby": {
+        "alt": "👶",
+        "class": "e1278 c0 emoji"
+    },
+    ":flag-it:": {
+        "alt": "🇮🇹",
+        "class": "e339 c7 emoji"
+    },
+    ":alarm_clock:": {
+        "alt": "⏰",
+        "class": "e37 c5 emoji"
+    },
+    ":new_moon_with_face:": {
+        "alt": "🌚",
+        "class": "e518 c1 emoji"
+    },
+    ":sandal:": {
+        "alt": "👡",
+        "class": "e967 c0 emoji"
+    },
+    ":eyes:": {
+        "alt": "👀",
+        "class": "e868 c0 emoji"
+    },
+    ":flag-ad:": {
+        "alt": "🇦🇩",
+        "class": "e230 c7 emoji"
+    },
+    ":mask:": {
+        "alt": "😷",
+        "class": "e1731 c0 emoji"
+    },
+    ":three:": {
+        "alt": "3⃣",
+        "class": "e6 c6 emoji"
+    },
+    ":mans_shoe:": {
+        "alt": "👞",
+        "class": "e964 c0 emoji"
+    },
+    ":flag-jp:": {
+        "alt": "🇯🇵",
+        "class": "e343 c7 emoji"
+    },
+    ":ghost:": {
+        "alt": "👻",
+        "class": "e1304 c0 emoji"
+    },
+    ":flag-dj:": {
+        "alt": "🇩🇯",
+        "class": "e286 c7 emoji"
+    },
+    ":flag-tc:": {
+        "alt": "🇹🇨",
+        "class": "e441 c7 emoji"
+    },
+    ":koala:": {
+        "alt": "🐨",
+        "class": "e844 c1 emoji"
+    },
+    ":fuelpump:": {
+        "alt": "⛽",
+        "class": "e146 c4 emoji"
+    },
+    ":rice_scene:": {
+        "alt": "🎑",
+        "class": "e640 c4 emoji"
+    },
+    ":flag-br:": {
+        "alt": "🇧🇷",
+        "class": "e260 c7 emoji"
+    },
+    ":toilet:": {
+        "alt": "🚽",
+        "class": "e1937 c5 emoji"
+    },
+    ":hair_cut:": {
+        "alt": "💇",
+        "class": "e1365 c0 emoji"
+    },
+    ":coffin:": {
+        "alt": "⚰",
+        "class": "e111 c5 emoji"
+    },
+    ":black_joker:": {
+        "alt": "🃏",
+        "class": "e214 c6 emoji"
+    },
+    ":hamster:": {
+        "alt": "🐹",
+        "class": "e861 c1 emoji"
+    },
+    ":cat2:": {
+        "alt": "🐈",
+        "class": "e812 c1 emoji"
+    },
+    ":peace:": {
+        "alt": "✌",
+        "class": "e163 c0 emoji"
+    },
+    ":dolphin:": {
+        "alt": "🐬",
+        "class": "e848 c1 emoji"
+    },
+    ":family_6": {
+        "alt": "👩‍👩‍👧",
+        "class": "e1210 c0 emoji"
+    },
+    ":green_book:": {
+        "alt": "📗",
+        "class": "e1464 c5 emoji"
+    },
+    ":six_pointed_star:": {
+        "alt": "🔯",
+        "class": "e1551 c6 emoji"
+    },
+    ":tired_face:": {
+        "alt": "😫",
+        "class": "e1719 c0 emoji"
+    },
+    ":clock9:": {
+        "alt": "🕘",
+        "class": "e1580 c6 emoji"
+    },
+    ":shout:": {
+        "alt": "🗣",
+        "class": "e1666 c0 emoji"
+    },
+    ":ng:": {
+        "alt": "🆖",
+        "class": "e225 c6 emoji"
+    },
+    ":horse:": {
+        "alt": "🐴",
+        "class": "e856 c1 emoji"
+    },
+    ":heart_eyes:": {
+        "alt": "😍",
+        "class": "e1689 c0 emoji"
+    },
+    ":city_night:": {
+        "alt": "🌃",
+        "class": "e495 c4 emoji"
+    },
+    ":waxing_gibbous_moon:": {
+        "alt": "🌔",
+        "class": "e512 c1 emoji"
+    },
+    ":flag-ky:": {
+        "alt": "🇰🇾",
+        "class": "e353 c7 emoji"
+    },
+    ":mobile_phone_off:": {
+        "alt": "📴",
+        "class": "e1493 c6 emoji"
+    },
+    ":abcd:": {
+        "alt": "🔡",
+        "class": "e1537 c6 emoji"
+    },
+    ":flag-ng:": {
+        "alt": "🇳🇬",
+        "class": "e392 c7 emoji"
+    },
+    ":card_index:": {
+        "alt": "📇",
+        "class": "e1448 c5 emoji"
+    },
+    ":heartpulse:": {
+        "alt": "💗",
+        "class": "e1395 c6 emoji"
+    },
+    ":arrow_lower_left:": {
+        "alt": "↙",
+        "class": "e24 c6 emoji"
+    },
+    ":tiger:": {
+        "alt": "🐯",
+        "class": "e851 c1 emoji"
+    },
+    ":bust_in_silhouette:": {
+        "alt": "👤",
+        "class": "e970 c0 emoji"
+    },
+    ":two_women_holding_hands:": {
+        "alt": "👭",
+        "class": "e1215 c0 emoji"
+    },
+    ":person:": {
+        "alt": "👱",
+        "class": "e1236 c0 emoji"
+    },
+    ":builder:": {
+        "alt": "👷",
+        "class": "e1284 c0 emoji"
+    },
+    ":oncoming_automobile:": {
+        "alt": "🚘",
+        "class": "e1856 c4 emoji"
+    },
+    ":thumbs_up:": {
+        "alt": "👍",
+        "class": "e927 c0 emoji"
+    },
+    ":relaxed:": {
+        "alt": "☺",
+        "class": "e78 c0 emoji"
+    },
+    ":large_orange_diamond:": {
+        "alt": "🔶",
+        "class": "e1558 c6 emoji"
+    },
+    ":flag-pk:": {
+        "alt": "🇵🇰",
+        "class": "e406 c7 emoji"
+    },
+    "barrel": {
+        "alt": "🛢",
+        "class": "e1961 c5 emoji"
+    },
+    ":sunglasses:": {
+        "alt": "😎",
+        "class": "e1690 c0 emoji"
+    },
+    ":nine:": {
+        "alt": "9⃣",
+        "class": "e12 c6 emoji"
+    },
+    ":first_quarter_moon:": {
+        "alt": "🌓",
+        "class": "e511 c1 emoji"
+    },
+    ":sunflower:": {
+        "alt": "🌻",
+        "class": "e549 c1 emoji"
+    },
+    ":ferris_wheel:": {
+        "alt": "🎡",
+        "class": "e651 c4 emoji"
+    },
+    ":partly_sunny:": {
+        "alt": "⛅",
+        "class": "e116 c1 emoji"
+    },
+    ":flag-tj:": {
+        "alt": "🇹🇯",
+        "class": "e446 c7 emoji"
+    },
+    ":skull_crossbones:": {
+        "alt": "☠",
+        "class": "e69 c0 emoji"
+    },
+    ":flag-mt:": {
+        "alt": "🇲🇹",
+        "class": "e381 c7 emoji"
+    },
+    ":bus:": {
+        "alt": "🚌",
+        "class": "e1844 c4 emoji"
+    },
+    ":pouch:": {
+        "alt": "👝",
+        "class": "e963 c0 emoji"
+    },
+    ":ear_of_rice:": {
+        "alt": "🌾",
+        "class": "e552 c1 emoji"
+    },
+    ":clock830:": {
+        "alt": "🕣",
+        "class": "e1591 c6 emoji"
+    },
+    ":baby_bottle:": {
+        "alt": "🍼",
+        "class": "e614 c2 emoji"
+    },
+    ":notes:": {
+        "alt": "🎶",
+        "class": "e672 c6 emoji"
+    },
+    ":crocodile:": {
+        "alt": "🐊",
+        "class": "e814 c1 emoji"
+    },
+    ":wind:": {
+        "alt": "🌬",
+        "class": "e534 c1 emoji"
+    },
+    ":flag-yt:": {
+        "alt": "🇾🇹",
+        "class": "e473 c7 emoji"
+    },
+    ":deciduous_tree:": {
+        "alt": "🌳",
+        "class": "e541 c1 emoji"
+    },
+    ":flag-us:": {
+        "alt": "🇺🇸",
+        "class": "e459 c7 emoji"
+    },
+    ":hankey:": {
+        "alt": "💩",
+        "class": "e1413 c0 emoji"
+    },
+    ":poo:": {
+        "alt": "💩",
+        "class": "e1413 c0 emoji"
+    },
+    ":talk_to_the_hand:": {
+        "alt": "✋",
+        "class": "e157 c0 emoji"
+    },
+    ":hi_five:": {
+        "alt": "✋",
+        "class": "e157 c0 emoji"
+    },
+    ":briefcase:": {
+        "alt": "💼",
+        "class": "e1437 c0 emoji"
+    },
+    ":clock2:": {
+        "alt": "🕑",
+        "class": "e1573 c6 emoji"
+    },
+    ":koko:": {
+        "alt": "🈁",
+        "class": "e477 c6 emoji"
+    },
+    ":family_2:": {
+        "alt": "👨‍👩‍👧‍👦",
+        "class": "e1201 c0 emoji"
+    },
+    ":flag-gh:": {
+        "alt": "🇬🇭",
+        "class": "e311 c7 emoji"
+    },
+    ":tongue:": {
+        "alt": "👅",
+        "class": "e884 c0 emoji"
+    },
+    ":keycap_ten:": {
+        "alt": "🔟",
+        "class": "e1535 c6 emoji"
+    },
+    ":flag-sc:": {
+        "alt": "🇸🇨",
+        "class": "e423 c7 emoji"
+    },
+    ":church:": {
+        "alt": "⛪",
+        "class": "e124 c4 emoji"
+    },
+    ":left_luggage:": {
+        "alt": "🛅",
+        "class": "e1950 c6 emoji"
+    },
+    ":flag-kr:": {
+        "alt": "🇰🇷",
+        "class": "e351 c7 emoji"
+    },
+    ":dango:": {
+        "alt": "🍡",
+        "class": "e587 c2 emoji"
+    },
+    ":flag-as:": {
+        "alt": "🇦🇸",
+        "class": "e240 c7 emoji"
+    },
+    ":ship:": {
+        "alt": "🚢",
+        "class": "e1866 c4 emoji"
+    },
+    ":sunrise_over_mountains:": {
+        "alt": "🌄",
+        "class": "e496 c4 emoji"
+    },
+    ":flag-uz:": {
+        "alt": "🇺🇿",
+        "class": "e461 c7 emoji"
+    },
+    ":tangerine:": {
+        "alt": "🍊",
+        "class": "e564 c2 emoji"
+    },
+    ":flag-vu:": {
+        "alt": "🇻🇺",
+        "class": "e468 c7 emoji"
+    },
+    ":keyboard:": {
+        "alt": "⌨",
+        "class": "e29 c5 emoji"
+    },
+    ":blowfish:": {
+        "alt": "🐡",
+        "class": "e837 c1 emoji"
+    },
+    ":printer:": {
+        "alt": "🖨",
+        "class": "e1652 c5 emoji"
+    },
+    ":u7981:": {
+        "alt": "🈲",
+        "class": "e481 c6 emoji"
+    },
+    ":flags:": {
+        "alt": "🎏",
+        "class": "e638 c5 emoji"
+    },
+    ":pizza:": {
+        "alt": "🍕",
+        "class": "e575 c2 emoji"
+    },
+    ":black_small_square:": {
+        "alt": "▪",
+        "class": "e45 c6 emoji"
+    },
+    ":open_mouth:": {
+        "alt": "😮",
+        "class": "e1722 c0 emoji"
+    },
+    ":family_10:": {
+        "alt": "👨‍👨‍👦",
+        "class": "e1193 c0 emoji"
+    },
+    ":flag-co:": {
+        "alt": "🇨🇴",
+        "class": "e277 c7 emoji"
+    },
+    ":flag-gf:": {
+        "alt": "🇬🇫",
+        "class": "e309 c7 emoji"
+    },
+    ":neutral_face:": {
+        "alt": "😐",
+        "class": "e1692 c0 emoji"
+    },
+    ":middle_finger:": {
+        "alt": "🖕",
+        "class": "e1638 c0 emoji"
+    },
+    ":five:": {
+        "alt": "5⃣",
+        "class": "e8 c6 emoji"
+    },
+    ":chocolate_bar:": {
+        "alt": "🍫",
+        "class": "e597 c2 emoji"
+    },
+    ":mailbox_closed:": {
+        "alt": "📪",
+        "class": "e1483 c5 emoji"
+    },
+    ":flag-je:": {
+        "alt": "🇯🇪",
+        "class": "e340 c7 emoji"
+    },
+    ":white_square_button:": {
+        "alt": "🔳",
+        "class": "e1555 c6 emoji"
+    },
+    ":rock_hand:": {
+        "alt": "🤘",
+        "class": "e1981 c0 emoji"
+    },
+    ":mother:": {
+        "alt": "👩",
+        "class": "e1086 c0 emoji"
+    },
+    ":calling:": {
+        "alt": "📲",
+        "class": "e1491 c5 emoji"
+    },
+    ":volume_mixer:": {
+        "alt": "🎚",
+        "class": "e646 c5 emoji"
+    },
+    ":small_blue_diamond:": {
+        "alt": "🔹",
+        "class": "e1561 c6 emoji"
+    },
+    ":ab:": {
+        "alt": "🆎",
+        "class": "e219 c6 emoji"
+    },
+    ":bullettrain_side2:": {
+        "alt": "🚄",
+        "class": "e1836 c4 emoji"
+    },
+    ":cloud:": {
+        "alt": "☁",
+        "class": "e54 c1 emoji"
+    },
+    ":page_with_curl:": {
+        "alt": "📃",
+        "class": "e1444 c5 emoji"
+    },
+    ":flag-bg:": {
+        "alt": "🇧🇬",
+        "class": "e251 c7 emoji"
+    },
+    ":angel:": {
+        "alt": "👼",
+        "class": "e1305 c0 emoji"
+    },
+    ":blue_heart:": {
+        "alt": "💙",
+        "class": "e1397 c6 emoji"
+    },
+    ":flag-ga:": {
+        "alt": "🇬🇦",
+        "class": "e305 c7 emoji"
+    },
+    ":family_9:": {
+        "alt": "👩‍👩‍👧‍👧",
+        "class": "e1212 c0 emoji"
+    },
+    ":flag-zw:": {
+        "alt": "🇿🇼",
+        "class": "e476 c7 emoji"
+    },
+    ":end:": {
+        "alt": "🔚",
+        "class": "e1530 c6 emoji"
+    },
+    ":date:": {
+        "alt": "📅",
+        "class": "e1446 c5 emoji"
+    },
+    ":rage:": {
+        "alt": "😡",
+        "class": "e1709 c0 emoji"
+    },
+    ":boom:": {
+        "alt": "💥",
+        "class": "e1409 c1 emoji"
+    },
+    ":point_right:": {
+        "alt": "👉",
+        "class": "e903 c0 emoji"
+    },
+    ":flag-sd:": {
+        "alt": "🇸🇩",
+        "class": "e424 c7 emoji"
+    },
+    ":sunny:": {
+        "alt": "☀",
+        "class": "e53 c1 emoji"
+    },
+    ":triangular_flag_on_post:": {
+        "alt": "🚩",
+        "class": "e1884 c7 emoji"
+    },
+    ":oncoming_taxi:": {
+        "alt": "🚖",
+        "class": "e1854 c4 emoji"
+    },
+    ":vertical_traffic_light:": {
+        "alt": "🚦",
+        "class": "e1881 c4 emoji"
+    },
+    ":fried_shrimp:": {
+        "alt": "🍤",
+        "class": "e590 c2 emoji"
+    },
+    ":small_red_triangle_down:": {
+        "alt": "🔻",
+        "class": "e1563 c6 emoji"
+    },
+    ":castle_european:": {
+        "alt": "🏰",
+        "class": "e790 c4 emoji"
+    },
+    ":blossom:": {
+        "alt": "🌼",
+        "class": "e550 c1 emoji"
+    },
+    ":black_large_square:": {
+        "alt": "⬛",
+        "class": "e205 c6 emoji"
+    },
+    ":no_mobile_phones:": {
+        "alt": "📵",
+        "class": "e1494 c6 emoji"
+    },
+    ":anguished:": {
+        "alt": "😧",
+        "class": "e1715 c0 emoji"
+    },
+    ":flag-cz:": {
+        "alt": "🇨🇿",
+        "class": "e284 c7 emoji"
+    },
+    ":non-potable_water:": {
+        "alt": "🚱",
+        "class": "e1892 c6 emoji"
+    },
+    ":stew:": {
+        "alt": "🍲",
+        "class": "e604 c2 emoji"
+    },
+    ":droplet:": {
+        "alt": "💧",
+        "class": "e1411 c1 emoji"
+    },
+    ":womans_clothes:": {
+        "alt": "👚",
+        "class": "e960 c0 emoji"
+    },
+    ":oncoming_police_car:": {
+        "alt": "🚔",
+        "class": "e1852 c4 emoji"
+    },
+    ":name_badge:": {
+        "alt": "📛",
+        "class": "e1468 c6 emoji"
+    },
+    ":crown:": {
+        "alt": "👑",
+        "class": "e951 c0 emoji"
+    },
+    ":package:": {
+        "alt": "📦",
+        "class": "e1479 c5 emoji"
+    },
+    ":small_point:": {
+        "alt": "☝",
+        "class": "e63 c0 emoji"
+    },
+    ":boat:": {
+        "alt": "⛵",
+        "class": "e130 c4 emoji"
+    },
+    ":computer:": {
+        "alt": "💻",
+        "class": "e1436 c5 emoji"
+    },
+    ":signal_strength:": {
+        "alt": "📶",
+        "class": "e1495 c6 emoji"
+    },
+    ":clock730:": {
+        "alt": "🕢",
+        "class": "e1590 c6 emoji"
+    },
+    ":tm:": {
+        "alt": "™",
+        "class": "e17 c6 emoji"
+    },
+    ":musical_score:": {
+        "alt": "🎼",
+        "class": "e678 c3 emoji"
+    },
+    ":flag-tg:": {
+        "alt": "🇹🇬",
+        "class": "e444 c7 emoji"
+    },
+    ":flag-gs:": {
+        "alt": "🇬🇸",
+        "class": "e319 c7 emoji"
+    },
+    ":point_down:": {
+        "alt": "👇",
+        "class": "e891 c0 emoji"
+    },
+    ":virgo:": {
+        "alt": "♍",
+        "class": "e84 c6 emoji"
+    },
+    ":helicopter:": {
+        "alt": "🚁",
+        "class": "e1833 c4 emoji"
+    },
+    ":flag-gb:": {
+        "alt": "🇬🇧",
+        "class": "e306 c7 emoji"
+    },
+    ":flag-bn:": {
+        "alt": "🇧🇳",
+        "class": "e257 c7 emoji"
+    },
+    ":walking_man:": {
+        "alt": "🚶",
+        "class": "e1919 c0 emoji"
+    },
+    ":speech_balloon:": {
+        "alt": "💬",
+        "class": "e1421 c6 emoji"
+    },
+    ":snowboarder:": {
+        "alt": "🏂",
+        "class": "e684 c3 emoji"
+    },
+    ":father:": {
+        "alt": "👨",
+        "class": "e984 c0 emoji"
+    },
+    ":flag-ua:": {
+        "alt": "🇺🇦",
+        "class": "e457 c7 emoji"
+    },
+    ":diamonds:": {
+        "alt": "♦",
+        "class": "e94 c6 emoji"
+    },
+    ":flag-nu:": {
+        "alt": "🇳🇺",
+        "class": "e398 c7 emoji"
+    },
+    ":water_buffalo:": {
+        "alt": "🐃",
+        "class": "e807 c1 emoji"
+    },
+    ":jazz_hands:": {
+        "alt": "🤗",
+        "class": "e1980 c0 emoji"
+    },
+    ":white_small_square:": {
+        "alt": "▫",
+        "class": "e46 c6 emoji"
+    },
+    ":sparkler:": {
+        "alt": "🎇",
+        "class": "e630 c4 emoji"
+    },
+    ":sound2:": {
+        "alt": "🔊",
+        "class": "e1514 c6 emoji"
+    },
+    ":flag-sm:": {
+        "alt": "🇸🇲",
+        "class": "e431 c7 emoji"
+    },
+    "unicorn": {
+        "alt": "🦄",
+        "class": "e2160 c1 emoji"
+    },
+    ":pear:": {
+        "alt": "🍐",
+        "class": "e570 c2 emoji"
+    },
+    ":monitor:": {
+        "alt": "🖥",
+        "class": "e1651 c5 emoji"
+    },
+    ":flag-qa:": {
+        "alt": "🇶🇦",
+        "class": "e415 c7 emoji"
+    },
+    ":flag-pw:": {
+        "alt": "🇵🇼",
+        "class": "e413 c7 emoji"
+    },
+    ":fallen_leaf:": {
+        "alt": "🍂",
+        "class": "e556 c1 emoji"
+    },
+    ":ticket:": {
+        "alt": "🎫",
+        "class": "e661 c3 emoji"
+    },
+    ":u7121:": {
+        "alt": "🈚",
+        "class": "e479 c6 emoji"
+    },
+    ":statue_of_liberty:": {
+        "alt": "🗽",
+        "class": "e1673 c4 emoji"
+    },
+    ":airplane:": {
+        "alt": "✈",
+        "class": "e149 c4 emoji"
+    },
+    ":grinning:": {
+        "alt": "😀",
+        "class": "e1676 c0 emoji"
+    },
+    ":negative_squared_cross_mark:": {
+        "alt": "❎",
+        "class": "e187 c6 emoji"
+    },
+    ":flag-ke:": {
+        "alt": "🇰🇪",
+        "class": "e344 c7 emoji"
+    },
+    ":beach_umberella:": {
+        "alt": "⛱",
+        "class": "e126 c4 emoji"
+    },
+    ":mountain_cableway:": {
+        "alt": "🚠",
+        "class": "e1864 c4 emoji"
+    },
+    ":moyai:": {
+        "alt": "🗿",
+        "class": "e1675 c4 emoji"
+    },
+    ":worried:": {
+        "alt": "😟",
+        "class": "e1707 c0 emoji"
+    },
+    ":santa:": {
+        "alt": "🎅",
+        "class": "e623 c0 emoji"
+    },
+    ":cry:": {
+        "alt": "😢",
+        "class": "e1710 c0 emoji"
+    },
+    ":unlock:": {
+        "alt": "🔓",
+        "class": "e1523 c5 emoji"
+    },
+    ":flag-iq:": {
+        "alt": "🇮🇶",
+        "class": "e336 c7 emoji"
+    },
+    ":flag-pe:": {
+        "alt": "🇵🇪",
+        "class": "e402 c7 emoji"
+    },
+    ":flag-vn:": {
+        "alt": "🇻🇳",
+        "class": "e467 c7 emoji"
+    },
+    ":flag-ck:": {
+        "alt": "🇨🇰",
+        "class": "e273 c7 emoji"
+    },
+    ":no_mouth:": {
+        "alt": "😶",
+        "class": "e1730 c0 emoji"
+    },
+    ":hourglass_flowing_sand:": {
+        "alt": "⏳",
+        "class": "e40 c5 emoji"
+    },
+    ":japan:": {
+        "alt": "🗾",
+        "class": "e1674 c4 emoji"
+    },
+    ":sweet_potato:": {
+        "alt": "🍠",
+        "class": "e586 c2 emoji"
+    },
+    ":eight_spoked_asterisk:": {
+        "alt": "✳",
+        "class": "e182 c6 emoji"
+    },
+    ":pushpin:": {
+        "alt": "📌",
+        "class": "e1453 c5 emoji"
+    },
+    ":flag-wf:": {
+        "alt": "🇼🇫",
+        "class": "e469 c7 emoji"
+    },
+    ":flag-tn:": {
+        "alt": "🇹🇳",
+        "class": "e450 c7 emoji"
+    },
+    ":customs:": {
+        "alt": "🛃",
+        "class": "e1948 c6 emoji"
+    },
+    ":hammer_crossed:": {
+        "alt": "⚒",
+        "class": "e98 c5 emoji"
+    },
+    ":flag-mp:": {
+        "alt": "🇲🇵",
+        "class": "e377 c7 emoji"
+    },
+    ":ophiuchus:": {
+        "alt": "⛎",
+        "class": "e118 c6 emoji"
+    },
+    ":mag_right:": {
+        "alt": "🔎",
+        "class": "e1518 c5 emoji"
+    },
+    "SHORTCODE_774": {
+        "alt": "❣",
+        "class": "e192 c6 emoji"
+    },
+    ":registered:": {
+        "alt": "®",
+        "class": "e14 c6 emoji"
+    },
+    ":fearful:": {
+        "alt": "😨",
+        "class": "e1716 c0 emoji"
+    },
+    ":arrow_heading_down:": {
+        "alt": "⤵",
+        "class": "e201 c6 emoji"
+    },
+    "SHORTCODE_128": {
+        "alt": "👲",
+        "class": "e1248 c0 emoji"
+    },
+    "SHORTCODE_129": {
+        "alt": "👳",
+        "class": "e1254 c0 emoji"
+    },
+    ":train:": {
+        "alt": "🚋",
+        "class": "e1843 c4 emoji"
+    },
+    ":cricket:": {
+        "alt": "🏏",
+        "class": "e757 c3 emoji"
+    },
+    ":x:": {
+        "alt": "❌",
+        "class": "e186 c6 emoji"
+    },
+    ":articulated_lorry:": {
+        "alt": "🚛",
+        "class": "e1859 c4 emoji"
+    },
+    ":flag-hn:": {
+        "alt": "🇭🇳",
+        "class": "e325 c7 emoji"
+    },
+    ":squirrell:": {
+        "alt": "🐿",
+        "class": "e867 c1 emoji"
+    },
+    ":clock6:": {
+        "alt": "🕕",
+        "class": "e1577 c6 emoji"
+    },
+    ":flushed:": {
+        "alt": "😳",
+        "class": "e1727 c0 emoji"
+    },
+    ":temperature:": {
+        "alt": "🌡",
+        "class": "e525 c5 emoji"
+    },
+    ":fax:": {
+        "alt": "📠",
+        "class": "e1473 c5 emoji"
+    },
+    ":flag-gl:": {
+        "alt": "🇬🇱",
+        "class": "e313 c7 emoji"
+    },
+    ":flag-cu:": {
+        "alt": "🇨🇺",
+        "class": "e279 c7 emoji"
+    },
+    ":herb:": {
+        "alt": "🌿",
+        "class": "e553 c1 emoji"
+    },
+    ":flag-pa:": {
+        "alt": "🇵🇦",
+        "class": "e401 c7 emoji"
+    },
+    ":gaelic_foogtball:": {
+        "alt": "🏐",
+        "class": "e758 c3 emoji"
+    },
+    ":earth_asia:": {
+        "alt": "🌏",
+        "class": "e507 c1 emoji"
+    },
+    "shield": {
+        "alt": "🛡",
+        "class": "e1960 c5 emoji"
+    },
+    ":custard:": {
+        "alt": "🍮",
+        "class": "e600 c2 emoji"
+    },
+    ":urn_2:": {
+        "alt": "🏺",
+        "class": "e798 c5 emoji"
+    },
+    ":mailbox:": {
+        "alt": "📫",
+        "class": "e1484 c5 emoji"
+    },
+    ":rowing:": {
+        "alt": "🚣",
+        "class": "e1867 c3 emoji"
+    },
+    ":trackball:": {
+        "alt": "🖲",
+        "class": "e1654 c5 emoji"
+    },
+    ":hotsprings:": {
+        "alt": "♨",
+        "class": "e95 c6 emoji"
+    },
+    ":sunny_clouds:": {
+        "alt": "🌤",
+        "class": "e526 c1 emoji"
+    },
+    ":flag-ve:": {
+        "alt": "🇻🇪",
+        "class": "e464 c7 emoji"
+    },
+    ":flag-pn:": {
+        "alt": "🇵🇳",
+        "class": "e409 c7 emoji"
+    },
+    ":flag-cl:": {
+        "alt": "🇨🇱",
+        "class": "e274 c7 emoji"
+    },
+    ":bin:": {
+        "alt": "🗑",
+        "class": "e1659 c5 emoji"
+    },
+    ":sunrise:": {
+        "alt": "🌅",
+        "class": "e497 c4 emoji"
+    },
+    ":trashcan:": {
+        "alt": "🗑",
+        "class": "e1659 c5 emoji"
+    },
+    ":dizzy_face:": {
+        "alt": "😵",
+        "class": "e1729 c0 emoji"
+    },
+    ":ski:": {
+        "alt": "🎿",
+        "class": "e681 c3 emoji"
+    },
+    ":clock630:": {
+        "alt": "🕡",
+        "class": "e1589 c6 emoji"
+    },
+    ":push_bell:": {
+        "alt": "🛎",
+        "class": "e1954 c5 emoji"
+    },
+    ":hospital:": {
+        "alt": "🏥",
+        "class": "e779 c4 emoji"
+    },
+    ":books:": {
+        "alt": "📚",
+        "class": "e1467 c5 emoji"
+    },
+    ":chart_with_downwards_trend:": {
+        "alt": "📉",
+        "class": "e1450 c5 emoji"
+    },
+    ":foggy:": {
+        "alt": "🌁",
+        "class": "e493 c4 emoji"
+    },
+    ":bread:": {
+        "alt": "🍞",
+        "class": "e584 c2 emoji"
+    },
+    ":flag-my:": {
+        "alt": "🇲🇾",
+        "class": "e386 c7 emoji"
+    },
+    ":strawberry:": {
+        "alt": "🍓",
+        "class": "e573 c2 emoji"
+    },
+    ":fish_cake:": {
+        "alt": "🍥",
+        "class": "e591 c2 emoji"
+    },
+    ":sushi:": {
+        "alt": "🍣",
+        "class": "e589 c2 emoji"
+    },
+    ":flag-lr:": {
+        "alt": "🇱🇷",
+        "class": "e360 c7 emoji"
+    },
+    ":map:": {
+        "alt": "🗺",
+        "class": "e1670 c4 emoji"
+    },
+    ":flag-sv:": {
+        "alt": "🇸🇻",
+        "class": "e437 c7 emoji"
+    },
+    ":bear:": {
+        "alt": "🐻",
+        "class": "e863 c1 emoji"
+    },
+    ":policeman:": {
+        "alt": "👮",
+        "class": "e1216 c0 emoji"
+    },
+    ":fishing_pole_and_fish:": {
+        "alt": "🎣",
+        "class": "e653 c3 emoji"
+    },
+    ":tv:": {
+        "alt": "📺",
+        "class": "e1499 c5 emoji"
+    },
+    ":black_medium_square:": {
+        "alt": "◼",
+        "class": "e50 c6 emoji"
+    },
+    ":tokyo_tower:": {
+        "alt": "🗼",
+        "class": "e1672 c4 emoji"
+    },
+    ":beach:": {
+        "alt": "🏖",
+        "class": "e764 c4 emoji"
+    },
+    ":tropical_drink:": {
+        "alt": "🍹",
+        "class": "e611 c2 emoji"
+    },
+    ":hand_up:": {
+        "alt": "🙋",
+        "class": "e1785 c0 emoji"
+    },
+    ":flag-aw:": {
+        "alt": "🇦🇼",
+        "class": "e243 c7 emoji"
+    },
+    ":vs:": {
+        "alt": "🆚",
+        "class": "e229 c6 emoji"
+    },
+    ":flag-fr:": {
+        "alt": "🇫🇷",
+        "class": "e304 c7 emoji"
+    },
+    ":carousel_horse:": {
+        "alt": "🎠",
+        "class": "e650 c4 emoji"
+    },
+    ":heavy_check_mark:": {
+        "alt": "✔",
+        "class": "e177 c6 emoji"
+    },
+    ":sword:": {
+        "alt": "🗡",
+        "class": "e1665 c5 emoji"
+    },
+    ":tent:": {
+        "alt": "⛺",
+        "class": "e145 c4 emoji"
+    },
+    ":loop:": {
+        "alt": "➿",
+        "class": "e199 c6 emoji"
+    },
+    ":confused:": {
+        "alt": "😕",
+        "class": "e1697 c0 emoji"
+    },
+    ":up:": {
+        "alt": "🆙",
+        "class": "e228 c6 emoji"
+    },
+    "SHORTCODE_588": {
+        "alt": "🕋",
+        "class": "e1568 c4 emoji"
+    },
+    "SHORTCODE_589": {
+        "alt": "⛩",
+        "class": "e123 c4 emoji"
+    },
+    ":strong:": {
+        "alt": "💪",
+        "class": "e1414 c0 emoji"
+    },
+    ":pill:": {
+        "alt": "💊",
+        "class": "e1378 c5 emoji"
+    },
+    ":marker:": {
+        "alt": "🖍",
+        "class": "e1631 c5 emoji"
+    },
+    ":hourglass:": {
+        "alt": "⌛",
+        "class": "e28 c5 emoji"
+    },
+    ":flag-mg:": {
+        "alt": "🇲🇬",
+        "class": "e370 c7 emoji"
+    },
+    ":flag-cy:": {
+        "alt": "🇨🇾",
+        "class": "e283 c7 emoji"
+    },
+    ":key:": {
+        "alt": "🔑",
+        "class": "e1521 c5 emoji"
+    },
+    ":flag-ge:": {
+        "alt": "🇬🇪",
+        "class": "e308 c7 emoji"
+    },
+    "spider_web": {
+        "alt": "🕸",
+        "class": "e1619 c1 emoji"
+    },
+    "SHORTCODE_587": {
+        "alt": "🕍",
+        "class": "e1570 c4 emoji"
+    },
+    ":key_1:": {
+        "alt": "🗝",
+        "class": "e1663 c5 emoji"
+    },
+    ":u6708:": {
+        "alt": "🈷",
+        "class": "e486 c6 emoji"
+    },
+    ":alien:": {
+        "alt": "👽",
+        "class": "e1311 c0 emoji"
+    },
+    ":happy:": {
+        "alt": "🙂",
+        "class": "e1742 c0 emoji"
+    },
+    ":electric_plug:": {
+        "alt": "🔌",
+        "class": "e1516 c5 emoji"
+    },
+    ":speak_no_evil:": {
+        "alt": "🙊",
+        "class": "e1783 c1 emoji"
+    },
+    ":holding_hands:": {
+        "alt": "👫",
+        "class": "e1213 c0 emoji"
+    },
+    ":radio_button:": {
+        "alt": "🔘",
+        "class": "e1528 c6 emoji"
+    },
+    ":flag-ru:": {
+        "alt": "🇷🇺",
+        "class": "e419 c7 emoji"
+    },
+    ":skip_back_button:": {
+        "alt": "⏮",
+        "class": "e35 c6 emoji"
+    },
+    ":flag-ni:": {
+        "alt": "🇳🇮",
+        "class": "e393 c7 emoji"
+    },
+    ":play_button:": {
+        "alt": "▶",
+        "class": "e47 c6 emoji"
+    },
+    ":flag-za:": {
+        "alt": "🇿🇦",
+        "class": "e474 c7 emoji"
+    },
+    ":star:": {
+        "alt": "⭐",
+        "class": "e207 c1 emoji"
+    },
+    ":top:": {
+        "alt": "🔝",
+        "class": "e1533 c6 emoji"
+    },
+    ":construction:": {
+        "alt": "🚧",
+        "class": "e1882 c4 emoji"
+    },
+    ":gemini:": {
+        "alt": "♊",
+        "class": "e81 c6 emoji"
+    },
+    "SHORTCODE_786": {
+        "alt": "🕉",
+        "class": "e1566 c6 emoji"
+    },
+    ":closed_book:": {
+        "alt": "📕",
+        "class": "e1462 c5 emoji"
+    },
+    ":bulb:": {
+        "alt": "💡",
+        "class": "e1405 c5 emoji"
+    },
+    ":railroad:": {
+        "alt": "🛤",
+        "class": "e1963 c4 emoji"
+    },
+    ":round_pushpin:": {
+        "alt": "📍",
+        "class": "e1454 c5 emoji"
+    },
+    ":ideograph_advantage:": {
+        "alt": "🉐",
+        "class": "e490 c6 emoji"
+    },
+    ":ambulance:": {
+        "alt": "🚑",
+        "class": "e1849 c4 emoji"
+    },
+    ":spaghetti:": {
+        "alt": "🍝",
+        "class": "e583 c2 emoji"
+    },
+    ":flag-al:": {
+        "alt": "🇦🇱",
+        "class": "e235 c7 emoji"
+    },
+    ":no_entry_sign:": {
+        "alt": "🚫",
+        "class": "e1886 c6 emoji"
+    },
+    ":o:": {
+        "alt": "⭕",
+        "class": "e208 c6 emoji"
+    },
+    ":minibus:": {
+        "alt": "🚐",
+        "class": "e1848 c4 emoji"
+    },
+    ":free:": {
+        "alt": "🆓",
+        "class": "e222 c6 emoji"
+    },
+    ":flag-ps:": {
+        "alt": "🇵🇸",
+        "class": "e411 c7 emoji"
+    },
+    ":mag:": {
+        "alt": "🔍",
+        "class": "e1517 c5 emoji"
+    },
+    ":watermelon:": {
+        "alt": "🍉",
+        "class": "e563 c2 emoji"
+    },
+    ":postbox:": {
+        "alt": "📮",
+        "class": "e1487 c5 emoji"
+    },
+    ":large_blue_diamond:": {
+        "alt": "🔷",
+        "class": "e1559 c6 emoji"
+    },
+    ":white_flower:": {
+        "alt": "💮",
+        "class": "e1423 c6 emoji"
+    },
+    ":grandmother:": {
+        "alt": "👵",
+        "class": "e1272 c0 emoji"
+    },
+    ":ram:": {
+        "alt": "🐏",
+        "class": "e819 c1 emoji"
+    },
+    ":mount_fuji:": {
+        "alt": "🗻",
+        "class": "e1671 c4 emoji"
+    },
+    ":flag-bj:": {
+        "alt": "🇧🇯",
+        "class": "e254 c7 emoji"
+    },
+    ":yellow_heart:": {
+        "alt": "💛",
+        "class": "e1399 c6 emoji"
+    },
+    ":sos:": {
+        "alt": "🆘",
+        "class": "e227 c6 emoji"
+    },
+    ":telescope:": {
+        "alt": "🔭",
+        "class": "e1549 c5 emoji"
+    },
+    ":triangular_ruler:": {
+        "alt": "📐",
+        "class": "e1457 c5 emoji"
+    },
+    ":tada:": {
+        "alt": "🎉",
+        "class": "e632 c5 emoji"
+    },
+    ":volcano:": {
+        "alt": "🌋",
+        "class": "e503 c4 emoji"
+    },
+    ":flag-ml:": {
+        "alt": "🇲🇱",
+        "class": "e373 c7 emoji"
+    },
+    ":skip_button:": {
+        "alt": "⏭",
+        "class": "e34 c6 emoji"
+    },
+    ":frowning:": {
+        "alt": "😦",
+        "class": "e1714 c0 emoji"
+    },
+    ":flag-si:": {
+        "alt": "🇸🇮",
+        "class": "e428 c7 emoji"
+    },
+    ":hand:": {
+        "alt": "🖐",
+        "class": "e1632 c0 emoji"
+    },
+    ":flag-cg:": {
+        "alt": "🇨🇬",
+        "class": "e270 c7 emoji"
+    },
+    ":flag_blowing:": {
+        "alt": "🏳",
+        "class": "e791 c7 emoji"
+    },
+    ":cancer:": {
+        "alt": "♋",
+        "class": "e82 c6 emoji"
+    },
+    ":golfer:": {
+        "alt": "🏌",
+        "class": "e743 c3 emoji"
+    },
+    ":tshirt:": {
+        "alt": "👕",
+        "class": "e955 c0 emoji"
+    },
+    ":badminton:": {
+        "alt": "🏸",
+        "class": "e796 c3 emoji"
+    },
+    ":do_not_litter:": {
+        "alt": "🚯",
+        "class": "e1890 c6 emoji"
+    },
+    ":money_with_wings:": {
+        "alt": "💸",
+        "class": "e1433 c5 emoji"
+    },
+    ":smile_cat:": {
+        "alt": "😸",
+        "class": "e1732 c0 emoji"
+    },
+    ":skier:": {
+        "alt": "⛷",
+        "class": "e131 c3 emoji"
+    },
+    ":nut_and_bolt:": {
+        "alt": "🔩",
+        "class": "e1545 c5 emoji"
+    },
+    ":city:": {
+        "alt": "🏙",
+        "class": "e767 c4 emoji"
+    },
+    ":restroom:": {
+        "alt": "🚻",
+        "class": "e1935 c6 emoji"
+    },
+    ":100:": {
+        "alt": "💯",
+        "class": "e1424 c6 emoji"
+    },
+    ":clock530:": {
+        "alt": "🕠",
+        "class": "e1588 c6 emoji"
+    },
+    ":flag-fi:": {
+        "alt": "🇫🇮",
+        "class": "e299 c7 emoji"
+    },
+    ":cl:": {
+        "alt": "🆑",
+        "class": "e220 c6 emoji"
+    },
+    ":potable_water:": {
+        "alt": "🚰",
+        "class": "e1891 c5 emoji"
+    },
+    ":blush:": {
+        "alt": "😊",
+        "class": "e1686 c0 emoji"
+    },
+    ":flag-np:": {
+        "alt": "🇳🇵",
+        "class": "e396 c7 emoji"
+    },
+    ":flag-gw:": {
+        "alt": "🇬🇼",
+        "class": "e322 c7 emoji"
+    },
+    ":flag-ae:": {
+        "alt": "🇦🇪",
+        "class": "e231 c7 emoji"
+    },
+    ":flag-kh:": {
+        "alt": "🇰🇭",
+        "class": "e346 c7 emoji"
+    },
+    ":u7a7a:": {
+        "alt": "🈳",
+        "class": "e482 c6 emoji"
+    },
+    ":convenience_store:": {
+        "alt": "🏪",
+        "class": "e784 c4 emoji"
+    },
+    ":joy_cat:": {
+        "alt": "😹",
+        "class": "e1733 c0 emoji"
+    },
+    ":fountain_pen:": {
+        "alt": "🖋",
+        "class": "e1629 c5 emoji"
+    },
+    ":football:": {
+        "alt": "🏈",
+        "class": "e717 c3 emoji"
+    },
+    ":flag-il:": {
+        "alt": "🇮🇱",
+        "class": "e332 c7 emoji"
+    },
+    ":two:": {
+        "alt": "2⃣",
+        "class": "e5 c6 emoji"
+    },
+    ":loudspeaker:": {
+        "alt": "📢",
+        "class": "e1475 c6 emoji"
+    },
+    ":pause_button:": {
+        "alt": "⏸",
+        "class": "e41 c6 emoji"
+    },
+    ":apple:": {
+        "alt": "🍎",
+        "class": "e568 c2 emoji"
+    },
+    ":hockey:": {
+        "alt": "🏑",
+        "class": "e759 c3 emoji"
+    },
+    ":balloon:": {
+        "alt": "🎈",
+        "class": "e631 c5 emoji"
+    },
+    "SHORTCODE_240": {
+        "alt": "🦂",
+        "class": "e2158 c1 emoji"
+    },
+    ":low_brightness:": {
+        "alt": "🔅",
+        "class": "e1509 c6 emoji"
+    },
+    ":rat:": {
+        "alt": "🐀",
+        "class": "e804 c1 emoji"
+    },
+    ":flag-va:": {
+        "alt": "🇻🇦",
+        "class": "e462 c7 emoji"
+    },
+    ":new_moon:": {
+        "alt": "🌑",
+        "class": "e509 c1 emoji"
+    },
+    ":cog:": {
+        "alt": "⚙",
+        "class": "e104 c5 emoji"
+    },
+    ":womans_hat:": {
+        "alt": "👒",
+        "class": "e952 c0 emoji"
+    },
+    ":sake:": {
+        "alt": "🍶",
+        "class": "e608 c2 emoji"
+    },
+    ":hammer_wrench:": {
+        "alt": "🛠",
+        "class": "e1959 c5 emoji"
+    },
+    ":confetti_ball:": {
+        "alt": "🎊",
+        "class": "e633 c5 emoji"
+    },
+    ":pig_nose:": {
+        "alt": "🐽",
+        "class": "e865 c1 emoji"
+    },
+    ":flag-mz:": {
+        "alt": "🇲🇿",
+        "class": "e387 c7 emoji"
+    },
+    ":flag-nf:": {
+        "alt": "🇳🇫",
+        "class": "e391 c7 emoji"
+    },
+    ":scissors:": {
+        "alt": "✂",
+        "class": "e147 c5 emoji"
+    },
+    ":ballot_box_with_check:": {
+        "alt": "☑",
+        "class": "e59 c6 emoji"
+    },
+    ":umbrella_rain:": {
+        "alt": "☔",
+        "class": "e60 c1 emoji"
+    },
+    ":island:": {
+        "alt": "🏝",
+        "class": "e771 c4 emoji"
+    },
+    ":b:": {
+        "alt": "🅱",
+        "class": "e216 c6 emoji"
+    },
+    ":skull:": {
+        "alt": "💀",
+        "class": "e1314 c0 emoji"
+    },
+    ":robot:": {
+        "alt": "🤖",
+        "class": "e1979 c0 emoji"
+    },
+    ":fork_and_knife:": {
+        "alt": "🍴",
+        "class": "e606 c2 emoji"
+    },
+    ":maple_leaf:": {
+        "alt": "🍁",
+        "class": "e555 c1 emoji"
+    },
+    ":bank:": {
+        "alt": "🏦",
+        "class": "e780 c4 emoji"
+    },
+    ":flag-lv:": {
+        "alt": "🇱🇻",
+        "class": "e364 c7 emoji"
+    },
+    ":sass:": {
+        "alt": "💁",
+        "class": "e1316 c0 emoji"
+    },
+    ":busstop:": {
+        "alt": "🚏",
+        "class": "e1847 c4 emoji"
+    },
+    ":running_man:": {
+        "alt": "🏃",
+        "class": "e685 c0 emoji"
+    },
+    ":fire:": {
+        "alt": "🔥",
+        "class": "e1541 c1 emoji"
+    },
+    ":couple_with_heart:": {
+        "alt": "💑",
+        "class": "e1388 c0 emoji"
+    },
+    ":medal:": {
+        "alt": "🏅",
+        "class": "e709 c3 emoji"
+    },
+    ":stuck_out_tongue:": {
+        "alt": "😛",
+        "class": "e1703 c0 emoji"
+    },
+    ":racing_car:": {
+        "alt": "🏎",
+        "class": "e756 c4 emoji"
+    },
+    ":wrap:": {
+        "alt": "🌯",
+        "class": "e537 c2 emoji"
+    },
+    ":imp:": {
+        "alt": "👿",
+        "class": "e1313 c0 emoji"
+    },
+    ":mouse:": {
+        "alt": "🖱",
+        "class": "e1653 c5 emoji"
+    },
+    ":stop_button:": {
+        "alt": "⏹",
+        "class": "e42 c6 emoji"
+    },
+    ":paper_clip_link:": {
+        "alt": "🖇",
+        "class": "e1627 c5 emoji"
+    },
+    ":syringe:": {
+        "alt": "💉",
+        "class": "e1377 c5 emoji"
+    },
+    ":cold_sweat:": {
+        "alt": "😰",
+        "class": "e1724 c0 emoji"
+    },
+    ":flag-tm:": {
+        "alt": "🇹🇲",
+        "class": "e449 c7 emoji"
+    },
+    ":leopard:": {
+        "alt": "🐆",
+        "class": "e810 c1 emoji"
+    },
+    ":slot_machine:": {
+        "alt": "🎰",
+        "class": "e666 c3 emoji"
+    },
+    ":clapper:": {
+        "alt": "🎬",
+        "class": "e662 c3 emoji"
+    },
+    ":grandfather:": {
+        "alt": "👴",
+        "class": "e1266 c0 emoji"
+    },
+    ":ok:": {
+        "alt": "🆗",
+        "class": "e226 c6 emoji"
+    },
+    ":running_shirt_with_sash:": {
+        "alt": "🎽",
+        "class": "e679 c3 emoji"
+    },
+    ":flag-ec:": {
+        "alt": "🇪🇨",
+        "class": "e291 c7 emoji"
+    },
+    ":tram:": {
+        "alt": "🚊",
+        "class": "e1842 c4 emoji"
+    },
+    ":elephant:": {
+        "alt": "🐘",
+        "class": "e828 c1 emoji"
+    },
+    ":flag-sy:": {
+        "alt": "🇸🇾",
+        "class": "e439 c7 emoji"
+    },
+    ":angry:": {
+        "alt": "😠",
+        "class": "e1708 c0 emoji"
+    },
+    ":gift:": {
+        "alt": "🎁",
+        "class": "e619 c5 emoji"
+    },
+    ":ice_skates:": {
+        "alt": "⛸",
+        "class": "e132 c3 emoji"
+    },
+    "SHORTCODE_859": {
+        "alt": "⚜",
+        "class": "e106 c6 emoji"
+    },
+    ":flag-mc:": {
+        "alt": "🇲🇨",
+        "class": "e367 c7 emoji"
+    },
+    ":rose:": {
+        "alt": "🌹",
+        "class": "e547 c1 emoji"
+    },
+    ":scorpius:": {
+        "alt": "♏",
+        "class": "e86 c6 emoji"
+    },
+    ":flag-gi:": {
+        "alt": "🇬🇮",
+        "class": "e312 c7 emoji"
+    },
+    ":one:": {
+        "alt": "1⃣",
+        "class": "e4 c6 emoji"
+    },
+    ":family_1:": {
+        "alt": "👨‍👩‍👧",
+        "class": "e1200 c0 emoji"
+    },
+    ":clock3:": {
+        "alt": "🕒",
+        "class": "e1574 c6 emoji"
+    },
+    "snow_clouds": {
+        "alt": "🌨",
+        "class": "e530 c1 emoji"
+    },
+    ":8ball:": {
+        "alt": "🎱",
+        "class": "e667 c3 emoji"
+    },
+    ":cool:": {
+        "alt": "🆒",
+        "class": "e221 c6 emoji"
+    },
+    ":bamboo:": {
+        "alt": "🎍",
+        "class": "e636 c1 emoji"
+    },
+    ":chestnut:": {
+        "alt": "🌰",
+        "class": "e538 c2 emoji"
+    },
+    ":game_die:": {
+        "alt": "🎲",
+        "class": "e668 c3 emoji"
+    },
+    ":sweat:": {
+        "alt": "😓",
+        "class": "e1695 c0 emoji"
+    },
+    ":flag-ee:": {
+        "alt": "🇪🇪",
+        "class": "e292 c7 emoji"
+    },
+    ":smiling_imp:": {
+        "alt": "😈",
+        "class": "e1684 c0 emoji"
+    },
+    ":anchor:": {
+        "alt": "☸",
+        "class": "e76 c6 emoji"
+    },
+    ":detective_inspecter:": {
+        "alt": "🕵",
+        "class": "e1605 c0 emoji"
+    },
+    ":notebook:": {
+        "alt": "📓",
+        "class": "e1460 c5 emoji"
+    },
+    ":heavy_dollar_sign:": {
+        "alt": "💲",
+        "class": "e1427 c6 emoji"
+    },
+    ":kissing_closed_eyes:": {
+        "alt": "😚",
+        "class": "e1702 c0 emoji"
+    },
+    ":dress:": {
+        "alt": "👗",
+        "class": "e957 c0 emoji"
+    },
+    ":white_large_square:": {
+        "alt": "⬜",
+        "class": "e206 c6 emoji"
+    },
+    ":disappointed_relieved:": {
+        "alt": "😥",
+        "class": "e1713 c0 emoji"
+    },
+    ":whale2:": {
+        "alt": "🐋",
+        "class": "e815 c1 emoji"
+    },
+    ":flag-pm:": {
+        "alt": "🇵🇲",
+        "class": "e408 c7 emoji"
+    },
+    ":four_leaf_clover:": {
+        "alt": "🍀",
+        "class": "e554 c1 emoji"
+    },
+    ":flag-ls:": {
+        "alt": "🇱🇸",
+        "class": "e361 c7 emoji"
+    },
+    ":steam_locomotive:": {
+        "alt": "🚂",
+        "class": "e1834 c4 emoji"
+    },
+    ":baby_chick:": {
+        "alt": "🐤",
+        "class": "e840 c1 emoji"
+    },
+    ":speedboat:": {
+        "alt": "🚤",
+        "class": "e1879 c4 emoji"
+    },
+    ":flag-zm:": {
+        "alt": "🇿🇲",
+        "class": "e475 c7 emoji"
+    },
+    ":performing_arts:": {
+        "alt": "🎭",
+        "class": "e663 c3 emoji"
+    },
+    ":camera_flash:": {
+        "alt": "📸",
+        "class": "e1497 c5 emoji"
+    },
+    ":house:": {
+        "alt": "🏠",
+        "class": "e774 c4 emoji"
+    },
+    ":japanese_ogre:": {
+        "alt": "👹",
+        "class": "e1302 c0 emoji"
+    },
+    ":lock:": {
+        "alt": "🔒",
+        "class": "e1522 c5 emoji"
+    },
+    ":smile:": {
+        "alt": "😄",
+        "class": "e1680 c0 emoji"
+    },
+    ":flag-bf:": {
+        "alt": "🇧🇫",
+        "class": "e250 c7 emoji"
+    },
+    ":bikini:": {
+        "alt": "👙",
+        "class": "e959 c0 emoji"
+    },
+    ":hatched_chick:": {
+        "alt": "🐥",
+        "class": "e841 c1 emoji"
+    },
+    ":flag-es:": {
+        "alt": "🇪🇸",
+        "class": "e296 c7 emoji"
+    },
+    ":money_face:": {
+        "alt": "🤑",
+        "class": "e1974 c0 emoji"
+    },
+    ":orange_book:": {
+        "alt": "📙",
+        "class": "e1466 c5 emoji"
+    },
+    ":bar_chart:": {
+        "alt": "📊",
+        "class": "e1451 c5 emoji"
+    },
+    ":battery:": {
+        "alt": "🔋",
+        "class": "e1515 c5 emoji"
+    },
+    ":family_8:": {
+        "alt": "👩‍👩‍👦‍👦",
+        "class": "e1209 c0 emoji"
+    },
+    ":chain:": {
+        "alt": "⛓",
+        "class": "e121 c5 emoji"
+    },
+    ":ledger:": {
+        "alt": "📒",
+        "class": "e1459 c5 emoji"
+    },
+    ":flag-se:": {
+        "alt": "🇸🇪",
+        "class": "e425 c7 emoji"
+    },
+    ":couplekiss:": {
+        "alt": "💏",
+        "class": "e1384 c0 emoji"
+    },
+    ":dvd:": {
+        "alt": "📀",
+        "class": "e1441 c5 emoji"
+    },
+    ":monorail:": {
+        "alt": "🚝",
+        "class": "e1861 c4 emoji"
+    },
+    ":door:": {
+        "alt": "🚪",
+        "class": "e1885 c5 emoji"
+    },
+    ":cherries:": {
+        "alt": "🍒",
+        "class": "e572 c2 emoji"
+    },
+    ":flag-ht:": {
+        "alt": "🇭🇹",
+        "class": "e327 c7 emoji"
+    },
+    ":police_car:": {
+        "alt": "🚓",
+        "class": "e1851 c4 emoji"
+    },
+    ":parking:": {
+        "alt": "🅿",
+        "class": "e218 c6 emoji"
+    },
+    ":trophy:": {
+        "alt": "🏆",
+        "class": "e710 c3 emoji"
+    },
+    ":european_post_office:": {
+        "alt": "🏤",
+        "class": "e778 c4 emoji"
+    },
+    ":flag-jm:": {
+        "alt": "🇯🇲",
+        "class": "e341 c7 emoji"
+    },
+    ":clock12:": {
+        "alt": "🕛",
+        "class": "e1583 c6 emoji"
+    },
+    ":cupid:": {
+        "alt": "💘",
+        "class": "e1396 c6 emoji"
+    },
+    ":space_invader:": {
+        "alt": "👾",
+        "class": "e1312 c0 emoji"
+    },
+    ":fries:": {
+        "alt": "🍟",
+        "class": "e585 c2 emoji"
+    },
+    ":flag-lc:": {
+        "alt": "🇱🇨",
+        "class": "e357 c7 emoji"
+    },
+    ":rolling_eyes:": {
+        "alt": "🙄",
+        "class": "e1744 c0 emoji"
+    },
+    ":musical_note:": {
+        "alt": "🎵",
+        "class": "e671 c6 emoji"
+    },
+    ":flag-fm:": {
+        "alt": "🇫🇲",
+        "class": "e302 c7 emoji"
+    },
+    ":revolving_hearts:": {
+        "alt": "💞",
+        "class": "e1402 c6 emoji"
+    },
+    ":love_hotel:": {
+        "alt": "🏩",
+        "class": "e783 c4 emoji"
+    },
+    ":flag-cc:": {
+        "alt": "🇨🇨",
+        "class": "e267 c7 emoji"
+    },
+    ":red_circle:": {
+        "alt": "🔴",
+        "class": "e1556 c6 emoji"
+    },
+    ":sparkles:": {
+        "alt": "✨",
+        "class": "e181 c1 emoji"
+    },
+    ":flag-ai:": {
+        "alt": "🇦🇮",
+        "class": "e234 c7 emoji"
+    },
+    ":heart_decoration:": {
+        "alt": "💟",
+        "class": "e1403 c6 emoji"
+    },
+    ":shredder:": {
+        "alt": "🗳",
+        "class": "e1669 c5 emoji"
+    },
+    ":octopus:": {
+        "alt": "🐙",
+        "class": "e829 c1 emoji"
+    },
+    ":curly_loop:": {
+        "alt": "➰",
+        "class": "e198 c6 emoji"
+    },
+    ":leftwards_arrow_with_hook:": {
+        "alt": "↩",
+        "class": "e25 c6 emoji"
+    },
+    ":bathtub:": {
+        "alt": "🛁",
+        "class": "e1946 c5 emoji"
+    },
+    ":flag-tf:": {
+        "alt": "🇹🇫",
+        "class": "e443 c7 emoji"
+    },
+    ":flag-gt:": {
+        "alt": "🇬🇹",
+        "class": "e320 c7 emoji"
+    },
+    ":chart_with_upwards_trend:": {
+        "alt": "📈",
+        "class": "e1449 c5 emoji"
+    },
+    ":wedding:": {
+        "alt": "💒",
+        "class": "e1390 c4 emoji"
+    },
+    ":play_pause_button:": {
+        "alt": "⏯",
+        "class": "e36 c6 emoji"
+    },
+    ":heavy_plus_sign:": {
+        "alt": "➕",
+        "class": "e194 c6 emoji"
+    },
+    ":beginner:": {
+        "alt": "🔰",
+        "class": "e1552 c6 emoji"
+    },
+    "shades": {
+        "alt": "🕶",
+        "class": "e1617 c0 emoji"
+    },
+    "sunglasses_2": {
+        "alt": "🕶",
+        "class": "e1617 c0 emoji"
+    },
+    ":sparkling_heart:": {
+        "alt": "💖",
+        "class": "e1394 c6 emoji"
+    },
+    ":chicken:": {
+        "alt": "🐔",
+        "class": "e824 c1 emoji"
+    },
+    ":euro:": {
+        "alt": "💶",
+        "class": "e1431 c5 emoji"
+    },
+    ":grin:": {
+        "alt": "😁",
+        "class": "e1677 c0 emoji"
+    },
+    ":flag-sn:": {
+        "alt": "🇸🇳",
+        "class": "e432 c7 emoji"
+    },
+    ":filing_cabinet:": {
+        "alt": "🗄",
+        "class": "e1658 c5 emoji"
+    },
+    ":last_quarter_moon_with_face:": {
+        "alt": "🌜",
+        "class": "e520 c1 emoji"
+    },
+    ":flag-kp:": {
+        "alt": "🇰🇵",
+        "class": "e350 c7 emoji"
+    },
+    ":pencil:": {
+        "alt": "📝",
+        "class": "e1470 c5 emoji"
+    },
+    ":family_13:": {
+        "alt": "👨‍👨‍👦‍👦",
+        "class": "e1194 c0 emoji"
+    },
+    ":flag-er:": {
+        "alt": "🇪🇷",
+        "class": "e295 c7 emoji"
+    },
+    ":flag-om:": {
+        "alt": "🇴🇲",
+        "class": "e400 c7 emoji"
+    },
+    ":flag-ca:": {
+        "alt": "🇨🇦",
+        "class": "e266 c7 emoji"
+    },
+    ":book:": {
+        "alt": "📖",
+        "class": "e1463 c5 emoji"
+    },
+    ":flag-nz:": {
+        "alt": "🇳🇿",
+        "class": "e399 c7 emoji"
+    },
+    ":video_camera:": {
+        "alt": "📹",
+        "class": "e1498 c5 emoji"
+    },
+    ":capricorn:": {
+        "alt": "♑",
+        "class": "e88 c6 emoji"
+    },
+    ":violin:": {
+        "alt": "🎸",
+        "class": "e674 c3 emoji"
+    },
+    ":flag-eh:": {
+        "alt": "🇪🇭",
+        "class": "e294 c7 emoji"
+    },
+    ":boy:": {
+        "alt": "👦",
+        "class": "e972 c0 emoji"
+    },
+    "not-found-:two_women_kiss:": {
+        "alt": "◼",
+        "class": "emojie50"
+    },
+    ":stuck_out_tongue_closed_eyes:": {
+        "alt": "😝",
+        "class": "e1705 c0 emoji"
+    },
+    ":spok:": {
+        "alt": "🖖",
+        "class": "e1644 c0 emoji"
+    },
+    ":six:": {
+        "alt": "6⃣",
+        "class": "e9 c6 emoji"
+    },
+    ":perfect:": {
+        "alt": "👌",
+        "class": "e921 c0 emoji"
+    },
+    ":star2:": {
+        "alt": "🌟",
+        "class": "e523 c1 emoji"
+    },
+    ":flag-cd:": {
+        "alt": "🇨🇩",
+        "class": "e268 c7 emoji"
+    },
+    "SHORTCODE_643": {
+        "alt": "⚖",
+        "class": "e102 c5 emoji"
+    },
+    ":link:": {
+        "alt": "🔗",
+        "class": "e1527 c5 emoji"
+    },
+    ":lollipop:": {
+        "alt": "🍭",
+        "class": "e599 c2 emoji"
+    },
+    ":sob:": {
+        "alt": "😭",
+        "class": "e1721 c0 emoji"
+    },
+    ":soccer:": {
+        "alt": "⚽",
+        "class": "e113 c3 emoji"
+    },
+    ":family_5:": {
+        "alt": "👩‍👩‍👦",
+        "class": "e1208 c0 emoji"
+    },
+    ":baggage_claim:": {
+        "alt": "🛄",
+        "class": "e1949 c6 emoji"
+    },
+    ":u5408:": {
+        "alt": "🈴",
+        "class": "e483 c6 emoji"
+    },
+    ":ocean:": {
+        "alt": "🌊",
+        "class": "e502 c1 emoji"
+    },
+    ":vibration_mode:": {
+        "alt": "📳",
+        "class": "e1492 c6 emoji"
+    },
+    ":boar:": {
+        "alt": "🐗",
+        "class": "e827 c1 emoji"
+    },
+    ":kiss:": {
+        "alt": "💋",
+        "class": "e1379 c0 emoji"
+    },
+    ":izakaya_lantern:": {
+        "alt": "🏮",
+        "class": "e788 c5 emoji"
+    },
+    ":pouting_cat:": {
+        "alt": "😾",
+        "class": "e1738 c0 emoji"
+    },
+    ":hatching_chick:": {
+        "alt": "🐣",
+        "class": "e839 c1 emoji"
+    },
+    ":flag-ug:": {
+        "alt": "🇺🇬",
+        "class": "e458 c7 emoji"
+    },
+    ":pineapple:": {
+        "alt": "🍍",
+        "class": "e567 c2 emoji"
+    },
+    ":flag-bt:": {
+        "alt": "🇧🇹",
+        "class": "e262 c7 emoji"
+    },
+    ":swimming:": {
+        "alt": "🏊",
+        "class": "e719 c3 emoji"
+    },
+    ":waning_gibbous_moon:": {
+        "alt": "🌖",
+        "class": "e514 c1 emoji"
+    },
+    ":deco:": {
+        "alt": "🕵",
+        "class": "e1605 c0 emoji"
+    },
+    ":black_nib:": {
+        "alt": "✒",
+        "class": "e176 c5 emoji"
+    },
+    ":arrow_right:": {
+        "alt": "➡",
+        "class": "e197 c6 emoji"
+    },
+    ":flag-af:": {
+        "alt": "🇦🇫",
+        "class": "e232 c7 emoji"
+    },
+    ":frog:": {
+        "alt": "🐸",
+        "class": "e860 c1 emoji"
+    },
+    ":flag-gm:": {
+        "alt": "🇬🇲",
+        "class": "e314 c7 emoji"
+    },
+    ":zzz:": {
+        "alt": "💤",
+        "class": "e1408 c6 emoji"
+    },
+    ":table_tennis:": {
+        "alt": "🏓",
+        "class": "e761 c3 emoji"
+    },
+    ":flag-py:": {
+        "alt": "🇵🇾",
+        "class": "e414 c7 emoji"
+    },
+    ":sheep:": {
+        "alt": "🐑",
+        "class": "e821 c1 emoji"
+    },
+    ":flag-cv:": {
+        "alt": "🇨🇻",
+        "class": "e280 c7 emoji"
+    },
+    ":black_circle:": {
+        "alt": "⚫",
+        "class": "e110 c6 emoji"
+    },
+    ":seat:": {
+        "alt": "💺",
+        "class": "e1435 c4 emoji"
+    },
+    ":japanese_goblin:": {
+        "alt": "👺",
+        "class": "e1303 c0 emoji"
+    },
+    ":cross:": {
+        "alt": "✝",
+        "class": "e179 c6 emoji"
+    },
+    ":arrow_right_hook:": {
+        "alt": "↪",
+        "class": "e26 c6 emoji"
+    },
+    ":tractor:": {
+        "alt": "🚜",
+        "class": "e1860 c4 emoji"
+    },
+    ":broken_heart:": {
+        "alt": "💔",
+        "class": "e1392 c6 emoji"
+    },
+    ":banana:": {
+        "alt": "🍌",
+        "class": "e566 c2 emoji"
+    },
+    ":flag-dz:": {
+        "alt": "🇩🇿",
+        "class": "e290 c7 emoji"
+    },
+    ":flag-vg:": {
+        "alt": "🇻🇬",
+        "class": "e465 c7 emoji"
+    },
+    ":flag-nr:": {
+        "alt": "🇳🇷",
+        "class": "e397 c7 emoji"
+    },
+    ":wrench:": {
+        "alt": "🔧",
+        "class": "e1543 c5 emoji"
+    },
+    ":grey_question:": {
+        "alt": "❔",
+        "class": "e189 c6 emoji"
+    },
+    ":flag-cm:": {
+        "alt": "🇨🇲",
+        "class": "e275 c7 emoji"
+    },
+    ":ice_cream:": {
+        "alt": "🍨",
+        "class": "e594 c2 emoji"
+    },
+    ":flag-cx:": {
+        "alt": "🇨🇽",
+        "class": "e282 c7 emoji"
+    },
+    ":bookmark:": {
+        "alt": "🔖",
+        "class": "e1526 c5 emoji"
+    },
+    ":blue_book:": {
+        "alt": "📘",
+        "class": "e1465 c5 emoji"
+    },
+    ":lemon:": {
+        "alt": "🍋",
+        "class": "e565 c2 emoji"
+    },
+    ":postal_horn:": {
+        "alt": "📯",
+        "class": "e1488 c5 emoji"
+    },
+    ":tennis:": {
+        "alt": "🎾",
+        "class": "e680 c3 emoji"
+    },
+    ":crying_cat_face:": {
+        "alt": "😿",
+        "class": "e1739 c0 emoji"
+    },
+    ":record_button:": {
+        "alt": "⏺",
+        "class": "e43 c6 emoji"
+    },
+    ":flag-th:": {
+        "alt": "🇹🇭",
+        "class": "e445 c7 emoji"
+    },
+    ":irish_gaurd:": {
+        "alt": "💂",
+        "class": "e1327 c0 emoji"
+    },
+    ":small_orange_diamond:": {
+        "alt": "🔸",
+        "class": "e1560 c6 emoji"
+    },
+    ":chemistry_equipment:": {
+        "alt": "⚗",
+        "class": "e103 c5 emoji"
+    },
+    ":ring:": {
+        "alt": "💍",
+        "class": "e1381 c0 emoji"
+    },
+    ":takeoff:": {
+        "alt": "🛫",
+        "class": "e1966 c4 emoji"
+    },
+    ":flag-mv:": {
+        "alt": "🇲🇻",
+        "class": "e383 c7 emoji"
+    },
+    ":shell:": {
+        "alt": "🐚",
+        "class": "e830 c1 emoji"
+    },
+    ":flag-lu:": {
+        "alt": "🇱🇺",
+        "class": "e363 c7 emoji"
+    },
+    ":telephone_receiver:": {
+        "alt": "📞",
+        "class": "e1471 c5 emoji"
+    },
+    ":headphones:": {
+        "alt": "🎧",
+        "class": "e657 c3 emoji"
+    },
+    ":flag-bb:": {
+        "alt": "🇧🇧",
+        "class": "e247 c7 emoji"
+    },
+    ":wc:": {
+        "alt": "🚾",
+        "class": "e1938 c6 emoji"
+    },
+    "SHORTCODE_584": {
+        "alt": "🏛",
+        "class": "e769 c4 emoji"
+    },
+    ":hamburger:": {
+        "alt": "🍔",
+        "class": "e574 c2 emoji"
+    },
+    ":knock:": {
+        "alt": "✊",
+        "class": "e151 c0 emoji"
+    },
+    ":post_office:": {
+        "alt": "🏣",
+        "class": "e777 c4 emoji"
+    },
+    ":green_apple:": {
+        "alt": "🍏",
+        "class": "e569 c2 emoji"
+    },
+    ":wine_glass:": {
+        "alt": "🍷",
+        "class": "e609 c2 emoji"
+    },
+    ":bridge_at_night:": {
+        "alt": "🌉",
+        "class": "e501 c4 emoji"
+    },
+    ":flag-sa:": {
+        "alt": "🇸🇦",
+        "class": "e421 c7 emoji"
+    },
+    ":radioactive:": {
+        "alt": "☢",
+        "class": "e70 c6 emoji"
+    },
+    ":e-mail:": {
+        "alt": "📧",
+        "class": "e1480 c5 emoji"
+    },
+    ":yin_yang:": {
+        "alt": "☯",
+        "class": "e75 c6 emoji"
+    },
+    ":pisces:": {
+        "alt": "♓",
+        "class": "e90 c6 emoji"
+    },
+    ":seven:": {
+        "alt": "7⃣",
+        "class": "e10 c6 emoji"
+    },
+    ":capital_abcd:": {
+        "alt": "🔠",
+        "class": "e1536 c6 emoji"
+    },
+    ":railway_car:": {
+        "alt": "🚃",
+        "class": "e1835 c4 emoji"
+    },
+    ":lock_with_ink_pen:": {
+        "alt": "🔏",
+        "class": "e1519 c5 emoji"
+    },
+    ":grimacing:": {
+        "alt": "😬",
+        "class": "e1720 c0 emoji"
+    },
+    ":candy:": {
+        "alt": "🍬",
+        "class": "e598 c2 emoji"
+    },
+    ":umbrella:": {
+        "alt": "☂",
+        "class": "e55 c0 emoji"
+    },
+    ":1234:": {
+        "alt": "🔢",
+        "class": "e1538 c6 emoji"
+    },
+    ":flag-mk:": {
+        "alt": "🇲🇰",
+        "class": "e372 c7 emoji"
+    },
+    ":smirk:": {
+        "alt": "😏",
+        "class": "e1691 c0 emoji"
+    },
+    ":u6709:": {
+        "alt": "🈶",
+        "class": "e485 c6 emoji"
+    },
+    ":poodle:": {
+        "alt": "🐩",
+        "class": "e845 c1 emoji"
+    },
+    ":flag_blowing_o:": {
+        "alt": "🏴",
+        "class": "e793 c7 emoji"
+    },
+    ":flag-vc:": {
+        "alt": "🇻🇨",
+        "class": "e463 c7 emoji"
+    },
+    ":no_pedestrians:": {
+        "alt": "🚷",
+        "class": "e1931 c6 emoji"
+    },
+    ":accept:": {
+        "alt": "🉑",
+        "class": "e491 c6 emoji"
+    },
+    ":notepade:": {
+        "alt": "🗒",
+        "class": "e1660 c5 emoji"
+    },
+    ":outbox_tray:": {
+        "alt": "📤",
+        "class": "e1477 c5 emoji"
+    },
+    ":cow2:": {
+        "alt": "🐄",
+        "class": "e808 c1 emoji"
+    },
+    "SHORTCODE_586": {
+        "alt": "🕌",
+        "class": "e1569 c4 emoji"
+    },
+    "chili": {
+        "alt": "🌶",
+        "class": "e544 c2 emoji"
+    },
+    ":vhs:": {
+        "alt": "📼",
+        "class": "e1501 c5 emoji"
+    },
+    ":flag-de:": {
+        "alt": "🇩🇪",
+        "class": "e285 c7 emoji"
+    },
+    ":wavy_dash:": {
+        "alt": "〰",
+        "class": "e209 c6 emoji"
+    },
+    ":flag-tz:": {
+        "alt": "🇹🇿",
+        "class": "e456 c7 emoji"
+    },
+    "speach_balloon_2": {
+        "alt": "🗯",
+        "class": "e1668 c6 emoji"
+    },
+    ":tomato:": {
+        "alt": "🍅",
+        "class": "e559 c2 emoji"
+    },
+    ":flag-bi:": {
+        "alt": "🇧🇮",
+        "class": "e253 c7 emoji"
+    },
+    ":flag-et:": {
+        "alt": "🇪🇹",
+        "class": "e297 c7 emoji"
+    },
+    ":inbox_tray:": {
+        "alt": "📥",
+        "class": "e1478 c5 emoji"
+    },
+    ":dizzy:": {
+        "alt": "💫",
+        "class": "e1420 c1 emoji"
+    },
+    ":heavy_multiplication_x:": {
+        "alt": "✖",
+        "class": "e178 c6 emoji"
+    },
+    ":cinema:": {
+        "alt": "🎦",
+        "class": "e656 c6 emoji"
+    },
+    ":bowling:": {
+        "alt": "🎳",
+        "class": "e669 c3 emoji"
+    },
+    ":flag-am:": {
+        "alt": "🇦🇲",
+        "class": "e236 c7 emoji"
+    },
+    ":straight_ruler:": {
+        "alt": "📏",
+        "class": "e1456 c5 emoji"
+    },
+    ":city_sunset:": {
+        "alt": "🌆",
+        "class": "e498 c4 emoji"
+    },
+    ":head_massage:": {
+        "alt": "💆",
+        "class": "e1353 c0 emoji"
+    },
+    ":wink:": {
+        "alt": "😉",
+        "class": "e1685 c0 emoji"
+    },
+    ":flag-pr:": {
+        "alt": "🇵🇷",
+        "class": "e410 c7 emoji"
+    },
+    ":green_heart:": {
+        "alt": "💚",
+        "class": "e1398 c6 emoji"
+    },
+    ":flag-id:": {
+        "alt": "🇮🇩",
+        "class": "e330 c7 emoji"
+    },
+    ":arrow_up_down:": {
+        "alt": "↕",
+        "class": "e20 c6 emoji"
+    },
+    ":hi_ten:": {
+        "alt": "👐",
+        "class": "e945 c0 emoji"
+    },
+    ":bird:": {
+        "alt": "🐦",
+        "class": "e842 c1 emoji"
+    },
+    ":flag-at:": {
+        "alt": "🇦🇹",
+        "class": "e241 c7 emoji"
+    },
+    ":atm:": {
+        "alt": "🏧",
+        "class": "e781 c6 emoji"
+    },
+    "shooting_star": {
+        "alt": "☄",
+        "class": "e57 c1 emoji"
+    },
+    ":envelope:": {
+        "alt": "📨",
+        "class": "e1481 c5 emoji"
+    },
+    ":flag-md:": {
+        "alt": "🇲🇩",
+        "class": "e368 c7 emoji"
+    },
+    ":mortar_board:": {
+        "alt": "🎓",
+        "class": "e642 c0 emoji"
+    },
+    ":flag-mm:": {
+        "alt": "🇳🇦",
+        "class": "e388 c7 emoji"
+    },
+    ":bow_and_arrow:": {
+        "alt": "🏹",
+        "class": "e797 c3 emoji"
+    },
+    ":closed_umbrella:": {
+        "alt": "🌂",
+        "class": "e494 c0 emoji"
+    },
+    ":expressionless:": {
+        "alt": "😑",
+        "class": "e1693 c0 emoji"
+    },
+    ":anger:": {
+        "alt": "💢",
+        "class": "e1406 c6 emoji"
+    },
+    ":snowman:": {
+        "alt": "⛄",
+        "class": "e115 c1 emoji"
+    },
+    ":atom:": {
+        "alt": "⚛",
+        "class": "e105 c6 emoji"
+    },
+    ":riding:": {
+        "alt": "🏇",
+        "class": "e711 c3 emoji"
+    },
+    ":scroll:": {
+        "alt": "📜",
+        "class": "e1469 c5 emoji"
+    },
+    ":clock930:": {
+        "alt": "🕤",
+        "class": "e1592 c6 emoji"
+    },
+    ":cheese:": {
+        "alt": "🧀",
+        "class": "e2174 c2 emoji"
+    },
+    ":flag-bw:": {
+        "alt": "🇧🇼",
+        "class": "e263 c7 emoji"
+    },
+    ":white_check_mark:": {
+        "alt": "✅",
+        "class": "e148 c6 emoji"
+    },
+    ":cat:": {
+        "alt": "🐱",
+        "class": "e853 c1 emoji"
+    },
+    ":thinking:": {
+        "alt": "🙇",
+        "class": "e1769 c0 emoji"
+    },
+    ":hear_no_evil:": {
+        "alt": "🙉",
+        "class": "e1782 c1 emoji"
+    },
+    ":flag-gq:": {
+        "alt": "🇬🇶",
+        "class": "e317 c7 emoji"
+    },
+    ":flag-km:": {
+        "alt": "🇰🇲",
+        "class": "e348 c7 emoji"
+    },
+    ":bouquet:": {
+        "alt": "💐",
+        "class": "e1386 c1 emoji"
+    },
+    ":checkered_flag:": {
+        "alt": "🏁",
+        "class": "e683 c7 emoji"
+    },
+    ":currency_exchange:": {
+        "alt": "💱",
+        "class": "e1426 c6 emoji"
+    },
+    ":clipboard:": {
+        "alt": "📋",
+        "class": "e1452 c5 emoji"
+    },
+    "SHORTCODE_1009": {
+        "alt": "👁‍🗨",
+        "class": "e870 c6 emoji"
+    },
+    ":sun_shower:": {
+        "alt": "🌦",
+        "class": "e528 c1 emoji"
+    },
+    ":taxi:": {
+        "alt": "🚕",
+        "class": "e1853 c4 emoji"
+    },
+    ":purse:": {
+        "alt": "👛",
+        "class": "e961 c0 emoji"
+    },
+    ":triumph:": {
+        "alt": "😤",
+        "class": "e1712 c0 emoji"
+    },
+    ":flag-ki:": {
+        "alt": "🇰🇮",
+        "class": "e347 c7 emoji"
+    },
+    ":joypad:": {
+        "alt": "🕹",
+        "class": "e1620 c5 emoji"
+    },
+    ":minidisc:": {
+        "alt": "💽",
+        "class": "e1438 c5 emoji"
+    },
+    ":sagittarius:": {
+        "alt": "♐",
+        "class": "e87 c6 emoji"
+    },
+    ":microphone:": {
+        "alt": "🎙",
+        "class": "e645 c5 emoji"
+    },
+    "SHORTCODE_151": {
+        "alt": "🙍",
+        "class": "e1803 c0 emoji"
+    },
+    "SHORTCODE_150": {
+        "alt": "🙎",
+        "class": "e1815 c0 emoji"
+    },
+    ":movie_camera:": {
+        "alt": "🎥",
+        "class": "e655 c5 emoji"
+    },
+    ":mahjong:": {
+        "alt": "🀄",
+        "class": "e213 c6 emoji"
+    },
+    ":lightning:": {
+        "alt": "🌩",
+        "class": "e531 c1 emoji"
+    },
+    ":kissing_heart:": {
+        "alt": "😘",
+        "class": "e1700 c0 emoji"
+    },
+    ":flag-im:": {
+        "alt": "🇮🇲",
+        "class": "e333 c7 emoji"
+    },
+    ":birthday:": {
+        "alt": "🎂",
+        "class": "e620 c2 emoji"
+    },
+    ":crystal_ball:": {
+        "alt": "🔮",
+        "class": "e1550 c5 emoji"
+    },
+    ":luggage_tag:": {
+        "alt": "🏷",
+        "class": "e795 c5 emoji"
+    },
+    ":house_with_garden:": {
+        "alt": "🏡",
+        "class": "e775 c4 emoji"
+    },
+    ":fireworks:": {
+        "alt": "🎆",
+        "class": "e629 c4 emoji"
+    },
+    ":taurus:": {
+        "alt": "♉",
+        "class": "e80 c6 emoji"
+    },
+    ":cookie:": {
+        "alt": "🍪",
+        "class": "e596 c2 emoji"
+    },
+    ":sad_very:": {
+        "alt": "🙁",
+        "class": "e1741 c0 emoji"
+    },
+    ":heavy_minus_sign:": {
+        "alt": "➖",
+        "class": "e195 c6 emoji"
+    },
+    ":mountain_railway:": {
+        "alt": "🚞",
+        "class": "e1862 c4 emoji"
+    },
+    ":flag-mh:": {
+        "alt": "🇲🇭",
+        "class": "e371 c7 emoji"
+    },
+    ":innocent:": {
+        "alt": "😇",
+        "class": "e1683 c0 emoji"
+    },
+    ":wave:": {
+        "alt": "👋",
+        "class": "e915 c0 emoji"
+    },
+    ":motor_bike": {
+        "alt": "🏍",
+        "class": "e755 c4 emoji"
+    },
+    ":black_square_button:": {
+        "alt": "🔲",
+        "class": "e1554 c6 emoji"
+    },
+    ":clock_2:": {
+        "alt": "🕰",
+        "class": "e1597 c5 emoji"
+    },
+    ":mountains:": {
+        "alt": "⛰",
+        "class": "e125 c4 emoji"
+    },
+    ":watch:": {
+        "alt": "⌚",
+        "class": "e27 c5 emoji"
+    },
+    ":arrows_clockwise:": {
+        "alt": "🔃",
+        "class": "e1507 c6 emoji"
+    },
+    ":flag-ne:": {
+        "alt": "🇳🇪",
+        "class": "e390 c7 emoji"
+    },
+    ":tanabata_tree:": {
+        "alt": "🎋",
+        "class": "e634 c1 emoji"
+    },
+    ":flag-dm:": {
+        "alt": "🇩🇲",
+        "class": "e288 c7 emoji"
+    },
+    ":city_sunrise:": {
+        "alt": "🌇",
+        "class": "e499 c4 emoji"
+    },
+    ":peace_symbol:": {
+        "alt": "☮",
+        "class": "e74 c6 emoji"
+    },
+    ":bento:": {
+        "alt": "🍱",
+        "class": "e603 c2 emoji"
+    },
+    ":smirk_cat:": {
+        "alt": "😼",
+        "class": "e1736 c0 emoji"
+    },
+    ":m:": {
+        "alt": "Ⓜ",
+        "class": "e44 c6 emoji"
+    },
+    ":stopwatch:": {
+        "alt": "⏱",
+        "class": "e38 c5 emoji"
+    },
+    ":closed_lock_with_key:": {
+        "alt": "🔐",
+        "class": "e1520 c5 emoji"
+    },
+    ":oden:": {
+        "alt": "🍢",
+        "class": "e588 c2 emoji"
+    },
+    ":flag-mr:": {
+        "alt": "🇲🇷",
+        "class": "e379 c7 emoji"
+    },
+    ":flag-is:": {
+        "alt": "🇮🇸",
+        "class": "e338 c7 emoji"
+    },
+    ":oncoming_bus:": {
+        "alt": "🚍",
+        "class": "e1845 c4 emoji"
+    },
+    ":department_store:": {
+        "alt": "🏬",
+        "class": "e786 c4 emoji"
+    },
+    ":flag-ly:": {
+        "alt": "🇱🇾",
+        "class": "e365 c7 emoji"
+    },
+    ":racehorse:": {
+        "alt": "🐎",
+        "class": "e818 c1 emoji"
+    },
+    ":ice_hockey:": {
+        "alt": "🏒",
+        "class": "e760 c3 emoji"
+    },
+    ":flag-ss:": {
+        "alt": "🇸🇸",
+        "class": "e435 c7 emoji"
+    },
+    ":beetle:": {
+        "alt": "🐞",
+        "class": "e834 c1 emoji"
+    },
+    ":station:": {
+        "alt": "🚉",
+        "class": "e1841 c4 emoji"
+    },
+    ":page_facing_up:": {
+        "alt": "📄",
+        "class": "e1445 c5 emoji"
+    },
+    ":new:": {
+        "alt": "🆕",
+        "class": "e224 c6 emoji"
+    },
+    ":no_bell:": {
+        "alt": "🔕",
+        "class": "e1525 c6 emoji"
+    },
+    ":girl:": {
+        "alt": "👧",
+        "class": "e978 c0 emoji"
+    },
+    ":singposts:": {
+        "alt": "☦",
+        "class": "e72 c6 emoji"
+    },
+    ":flag-tl:": {
+        "alt": "🇹🇱",
+        "class": "e448 c7 emoji"
+    },
+    ":star_of_david:": {
+        "alt": "✡",
+        "class": "e180 c6 emoji"
+    },
+    ":basketball:": {
+        "alt": "🏀",
+        "class": "e682 c3 emoji"
+    },
+    ":judaism:": {
+        "alt": "🕎",
+        "class": "e1571 c6 emoji"
+    },
+    ":shopping_bags:": {
+        "alt": "🛍",
+        "class": "e1953 c5 emoji"
+    },
+    ":exclamation_confusion:": {
+        "alt": "⁉",
+        "class": "e16 c6 emoji"
+    },
+    ":flag-pg:": {
+        "alt": "🇵🇬",
+        "class": "e404 c7 emoji"
+    },
+    ":disappointed:": {
+        "alt": "😞",
+        "class": "e1706 c0 emoji"
+    },
+    ":nose:": {
+        "alt": "👃",
+        "class": "e877 c0 emoji"
+    },
+    ":trolleybus:": {
+        "alt": "🚎",
+        "class": "e1846 c4 emoji"
+    },
+    ":waning_crescent_moon:": {
+        "alt": "🌘",
+        "class": "e516 c1 emoji"
+    },
+    ":castle_japanese:": {
+        "alt": "🏯",
+        "class": "e789 c4 emoji"
+    },
+    ":point:": {
+        "alt": "👆",
+        "class": "e885 c0 emoji"
+    },
+    ":rabbit:": {
+        "alt": "🐰",
+        "class": "e852 c1 emoji"
+    },
+    ":lipstick:": {
+        "alt": "💄",
+        "class": "e1345 c0 emoji"
+    },
+    ":musical_keyboard:": {
+        "alt": "🎹",
+        "class": "e675 c3 emoji"
+    },
+    ":abc:": {
+        "alt": "🔤",
+        "class": "e1540 c6 emoji"
+    },
+    ":flag-bq:": {
+        "alt": "🇧🇶",
+        "class": "e259 c7 emoji"
+    },
+    ":pencil2:": {
+        "alt": "✏",
+        "class": "e175 c5 emoji"
+    },
+    ":stars:": {
+        "alt": "🌠",
+        "class": "e524 c4 emoji"
+    },
+    ":flag-sx:": {
+        "alt": "🇸🇽",
+        "class": "e438 c7 emoji"
+    },
+    ":cyclone:": {
+        "alt": "🌀",
+        "class": "e492 c6 emoji"
+    },
+    "crab": {
+        "alt": "🦀",
+        "class": "e2156 c1 emoji"
+    },
+    ":clock4:": {
+        "alt": "🕓",
+        "class": "e1575 c6 emoji"
+    },
+    ":ribbon:": {
+        "alt": "🎀",
+        "class": "e618 c5 emoji"
+    },
+    ":u5272:": {
+        "alt": "🈹",
+        "class": "e488 c6 emoji"
+    },
+    ":mega:": {
+        "alt": "📣",
+        "class": "e1476 c6 emoji"
+    },
+    ":nerd:": {
+        "alt": "🤓",
+        "class": "e1976 c0 emoji"
+    },
+    ":flag-nl:": {
+        "alt": "🇳🇱",
+        "class": "e394 c7 emoji"
+    },
+    ":plate_and_cuttlery:": {
+        "alt": "🍽",
+        "class": "e615 c2 emoji"
+    },
+    ":exclamation:": {
+        "alt": "‼",
+        "class": "e15 c6 emoji"
+    },
+    ":melon:": {
+        "alt": "🍈",
+        "class": "e562 c2 emoji"
+    },
+    ":rewind:": {
+        "alt": "⏪",
+        "class": "e31 c6 emoji"
+    },
+    ":hibiscus:": {
+        "alt": "🌺",
+        "class": "e548 c1 emoji"
+    },
+    ":family_4:": {
+        "alt": "👨‍👩‍👧‍👧",
+        "class": "e1202 c0 emoji"
+    },
+    ":hushed:": {
+        "alt": "😯",
+        "class": "e1723 c0 emoji"
+    },
+    ":tropical_fish:": {
+        "alt": "🐠",
+        "class": "e836 c1 emoji"
+    },
+    ":pager:": {
+        "alt": "📟",
+        "class": "e1472 c5 emoji"
+    },
+    ":fountain:": {
+        "alt": "⛲",
+        "class": "e127 c4 emoji"
+    },
+    ":islamism:": {
+        "alt": "☪",
+        "class": "e73 c6 emoji"
+    },
+    ":curry:": {
+        "alt": "🍛",
+        "class": "e581 c2 emoji"
+    },
+    ":no_entry:": {
+        "alt": "⛔",
+        "class": "e122 c6 emoji"
+    },
+    ":flashlight:": {
+        "alt": "🔦",
+        "class": "e1542 c5 emoji"
+    },
+    ":libra:": {
+        "alt": "♎",
+        "class": "e85 c6 emoji"
+    },
+    ":flag-pl:": {
+        "alt": "🇵🇱",
+        "class": "e407 c7 emoji"
+    },
+    ":flag-cr:": {
+        "alt": "🇨🇷",
+        "class": "e278 c7 emoji"
+    },
+    ":video_game:": {
+        "alt": "🎮",
+        "class": "e664 c3 emoji"
+    },
+    "sick_face": {
+        "alt": "🤒",
+        "class": "e1975 c0 emoji"
+    },
+    ":hands_up_for_detroit:": {
+        "alt": "🙌",
+        "class": "e1796 c0 emoji"
+    },
+    ":baby_symbol:": {
+        "alt": "🚼",
+        "class": "e1936 c6 emoji"
+    },
+    ":u7533:": {
+        "alt": "🈸",
+        "class": "e487 c6 emoji"
+    },
+    ":houses:": {
+        "alt": "🏘",
+        "class": "e766 c4 emoji"
+    },
+    ":hotdog:": {
+        "alt": "🌭",
+        "class": "e535 c2 emoji"
+    },
+    ":flag-bm:": {
+        "alt": "🇧🇲",
+        "class": "e256 c7 emoji"
+    },
+    ":camera:": {
+        "alt": "📷",
+        "class": "e1496 c5 emoji"
+    },
+    ":grey_exclamation:": {
+        "alt": "❕",
+        "class": "e190 c6 emoji"
+    },
+    ":art:": {
+        "alt": "🎨",
+        "class": "e658 c3 emoji"
+    },
+    ":large_blue_circle:": {
+        "alt": "🔵",
+        "class": "e1557 c6 emoji"
+    },
+    ":love_letter:": {
+        "alt": "💌",
+        "class": "e1380 c5 emoji"
+    },
+    ":beers:": {
+        "alt": "🍻",
+        "class": "e613 c2 emoji"
+    },
+    ":flag-aq:": {
+        "alt": "🇦🇶",
+        "class": "e238 c7 emoji"
+    },
+    ":flag-ci:": {
+        "alt": "🇨🇮",
+        "class": "e272 c7 emoji"
+    },
+    ":saxophone:": {
+        "alt": "🎷",
+        "class": "e673 c3 emoji"
+    },
+    ":desert:": {
+        "alt": "🏜",
+        "class": "e770 c4 emoji"
+    },
+    ":bomb:": {
+        "alt": "💣",
+        "class": "e1407 c5 emoji"
+    },
+    ":whale:": {
+        "alt": "🐳",
+        "class": "e855 c1 emoji"
+    },
+    ":sweat_drops:": {
+        "alt": "💦",
+        "class": "e1410 c1 emoji"
+    },
+    ":peach:": {
+        "alt": "🍑",
+        "class": "e571 c2 emoji"
+    },
+    ":seedling:": {
+        "alt": "🌱",
+        "class": "e539 c1 emoji"
+    },
+    ":arrow_down_small:": {
+        "alt": "🔽",
+        "class": "e1565 c6 emoji"
+    },
+    ":u55b6:": {
+        "alt": "🈺",
+        "class": "e489 c6 emoji"
+    },
+    ":eyeglasses:": {
+        "alt": "👓",
+        "class": "e953 c0 emoji"
+    },
+    ":arrow_lower_right:": {
+        "alt": "↘",
+        "class": "e23 c6 emoji"
+    },
+    ":family_7:": {
+        "alt": "👩‍👩‍👧‍👦",
+        "class": "e1211 c0 emoji"
+    },
+    ":milky_way:": {
+        "alt": "🌌",
+        "class": "e504 c4 emoji"
+    },
+    ":globe_with_meridians:": {
+        "alt": "🌐",
+        "class": "e508 c6 emoji"
+    },
+    ":white_medium_square:": {
+        "alt": "◻",
+        "class": "e49 c6 emoji"
+    },
+    ":camping:": {
+        "alt": "🏕",
+        "class": "e763 c4 emoji"
+    },
+    ":spades:": {
+        "alt": "♠",
+        "class": "e91 c6 emoji"
+    },
+    ":lips:": {
+        "alt": "👄",
+        "class": "e883 c0 emoji"
+    },
+    ":eight_pointed_black_star:": {
+        "alt": "✴",
+        "class": "e183 c6 emoji"
+    },
+    ":flag-bd": {
+        "alt": "🇧🇩",
+        "class": "e248 c7 emoji"
+    },
+    ":white_circle:": {
+        "alt": "⚪",
+        "class": "e109 c6 emoji"
+    },
+    ":bandaged:": {
+        "alt": "🤕",
+        "class": "e1978 c0 emoji"
+    },
+    ":gem:": {
+        "alt": "💎",
+        "class": "e1382 c5 emoji"
+    },
+    ":flag-rw:": {
+        "alt": "🇷🇼",
+        "class": "e420 c7 emoji"
+    },
+    ":cycling_uphill:": {
+        "alt": "🚵",
+        "class": "e1907 c3 emoji"
+    },
+    ":flag-ax:": {
+        "alt": "🇦🇽",
+        "class": "e244 c7 emoji"
+    },
+    ":circus_tent:": {
+        "alt": "🎪",
+        "class": "e660 c3 emoji"
+    },
+    ":rabbit2:": {
+        "alt": "🐇",
+        "class": "e811 c1 emoji"
+    },
+    ":hocho:": {
+        "alt": "🔪",
+        "class": "e1546 c5 emoji"
+    },
+    ":cd:": {
+        "alt": "💿",
+        "class": "e1440 c5 emoji"
+    },
+    ":flag-lb:": {
+        "alt": "🇱🇧",
+        "class": "e356 c7 emoji"
+    },
+    ":smiley:": {
+        "alt": "😃",
+        "class": "e1679 c0 emoji"
+    },
+    ":earth_americas:": {
+        "alt": "🌎",
+        "class": "e506 c1 emoji"
+    },
+    ":flag-in:": {
+        "alt": "🇮🇳",
+        "class": "e334 c7 emoji"
+    },
+    ":sound:": {
+        "alt": "🔉",
+        "class": "e1513 c6 emoji"
+    },
+    "SHORTCODE_448": {
+        "alt": "🕴",
+        "class": "e1599 c0 emoji"
+    },
+    ":house_abandoned:": {
+        "alt": "🏚",
+        "class": "e768 c4 emoji"
+    },
+    ":mute:": {
+        "alt": "🔇",
+        "class": "e1511 c6 emoji"
+    },
+    ":family_12:": {
+        "alt": "👨‍👨‍👧‍👦",
+        "class": "e1196 c0 emoji"
+    },
+    ":school:": {
+        "alt": "🏫",
+        "class": "e785 c4 emoji"
+    },
+    ":file_folder:": {
+        "alt": "📁",
+        "class": "e1442 c5 emoji"
+    },
+    ":country_road:": {
+        "alt": "🏞",
+        "class": "e772 c4 emoji"
+    },
+    ":flag-gu:": {
+        "alt": "🇬🇺",
+        "class": "e321 c7 emoji"
+    },
+    ":repeat_one:": {
+        "alt": "🔂",
+        "class": "e1506 c6 emoji"
+    },
+    ":candle:": {
+        "alt": "🕯",
+        "class": "e1596 c5 emoji"
+    },
+    ":shamrock:": {
+        "alt": "☘",
+        "class": "e62 c1 emoji"
+    },
+    ":bride:": {
+        "alt": "👰",
+        "class": "e1230 c0 emoji"
+    },
+    ":rugby:": {
+        "alt": "🏉",
+        "class": "e718 c3 emoji"
+    },
+    ":incoming_envelope:": {
+        "alt": "📩",
+        "class": "e1482 c5 emoji"
+    },
+    "SHORTCODE_194": {
+        "alt": "⛑",
+        "class": "e120 c0 emoji"
+    },
+    ":put_litter_in_its_place:": {
+        "alt": "🚮",
+        "class": "e1889 c6 emoji"
+    },
+    ":flag-ic:": {
+        "alt": "🇮🇨",
+        "class": "e329 c7 emoji"
+    },
+    ":flag-bl:": {
+        "alt": "🇧🇱",
+        "class": "e255 c7 emoji"
+    },
+    "lion": {
+        "alt": "🦁",
+        "class": "e2157 c1 emoji"
+    },
+    ":speaker:": {
+        "alt": "🔈",
+        "class": "e1512 c6 emoji"
+    },
+    ":flag-re:": {
+        "alt": "🇷🇪",
+        "class": "e416 c7 emoji"
+    },
+    "zip_face": {
+        "alt": "🤐",
+        "class": "e1973 c0 emoji"
+    },
+    ":waxing_crescent_moon:": {
+        "alt": "🌒",
+        "class": "e510 c1 emoji"
+    },
+    ":small_red_triangle:": {
+        "alt": "🔺",
+        "class": "e1562 c6 emoji"
+    },
+    ":flag-mn:": {
+        "alt": "🇲🇳",
+        "class": "e375 c7 emoji"
+    },
+    ":flag-sz:": {
+        "alt": "🇸🇿",
+        "class": "e440 c7 emoji"
+    },
+    ":hash:": {
+        "alt": "#⃣",
+        "class": "e1 c6 emoji"
+    },
+    ":flag-cf:": {
+        "alt": "🇨🇫",
+        "class": "e269 c7 emoji"
+    },
+    ":flag-so:": {
+        "alt": "🇸🇴",
+        "class": "e433 c7 emoji"
+    },
+    ":clock1030:": {
+        "alt": "🕥",
+        "class": "e1593 c6 emoji"
+    },
+    ":flag-li:": {
+        "alt": "🇱🇮",
+        "class": "e358 c7 emoji"
+    },
+    ":flag-lk:": {
+        "alt": "🇱🇰",
+        "class": "e359 c7 emoji"
+    },
+    ":dollar:": {
+        "alt": "💵",
+        "class": "e1430 c5 emoji"
+    },
+    ":icecream:": {
+        "alt": "🍦",
+        "class": "e592 c2 emoji"
+    },
+    ":truck:": {
+        "alt": "🚚",
+        "class": "e1858 c4 emoji"
+    },
+    ":biohazard:": {
+        "alt": "☣",
+        "class": "e71 c6 emoji"
+    },
+    ":repeat:": {
+        "alt": "🔁",
+        "class": "e1505 c6 emoji"
+    },
+    ":clock11:": {
+        "alt": "🕚",
+        "class": "e1582 c6 emoji"
+    },
+    ":clubs:": {
+        "alt": "♣",
+        "class": "e92 c6 emoji"
+    },
+    ":boot:": {
+        "alt": "👢",
+        "class": "e968 c0 emoji"
+    },
+    ":purple_heart:": {
+        "alt": "💜",
+        "class": "e1400 c6 emoji"
+    },
+    ":flag-kg:": {
+        "alt": "🇰🇬",
+        "class": "e345 c7 emoji"
+    },
+    ":updside_down:": {
+        "alt": "🙃",
+        "class": "e1743 c0 emoji"
+    },
+    ":clock1130:": {
+        "alt": "🕦",
+        "class": "e1594 c6 emoji"
+    },
+    ":bullettrain_side:": {
+        "alt": "🚅",
+        "class": "e1837 c4 emoji"
+    },
+    ":ox:": {
+        "alt": "🐂",
+        "class": "e806 c1 emoji"
+    },
+    ":black_medium_small_square:": {
+        "alt": "◾",
+        "class": "e52 c6 emoji"
+    },
+    ":diamond_shape_with_a_dot_inside:": {
+        "alt": "💠",
+        "class": "e1404 c6 emoji"
+    },
+    ":aerial_tramway:": {
+        "alt": "🚡",
+        "class": "e1865 c4 emoji"
+    },
+    ":mailbox_with_no_mail:": {
+        "alt": "📭",
+        "class": "e1486 c5 emoji"
+    },
+    ":arrow_down:": {
+        "alt": "⬇",
+        "class": "e204 c6 emoji"
+    },
+    ":flag-kz:": {
+        "alt": "🇰🇿",
+        "class": "e354 c7 emoji"
+    },
+    ":rice_cracker:": {
+        "alt": "🍘",
+        "class": "e578 c2 emoji"
+    },
+    ":white_medium_small_square:": {
+        "alt": "◽",
+        "class": "e51 c6 emoji"
+    },
+    ":flag-fk:": {
+        "alt": "🇫🇰",
+        "class": "e301 c7 emoji"
+    },
+    ":snow_capped:mountains:": {
+        "alt": "🏔",
+        "class": "e762 c4 emoji"
+    },
+    ":flag-eu:": {
+        "alt": "🇪🇺",
+        "class": "e298 c7 emoji"
+    },
+    ":sweat_smile:": {
+        "alt": "😅",
+        "class": "e1681 c0 emoji"
+    },
+    ":cherry_blossom:": {
+        "alt": "🌸",
+        "class": "e546 c1 emoji"
+    },
+    ":flag-fj:": {
+        "alt": "🇫🇯",
+        "class": "e300 c7 emoji"
+    },
+    ":flag-tt:": {
+        "alt": "🇹🇹",
+        "class": "e453 c7 emoji"
+    },
+    ":thumbs_down:": {
+        "alt": "👎",
+        "class": "e933 c0 emoji"
+    },
+    ":wheelchair:": {
+        "alt": "♿",
+        "class": "e97 c6 emoji"
+    },
+    ":flag-dk:": {
+        "alt": "🇩🇰",
+        "class": "e287 c7 emoji"
+    },
+    ":cruiser:": {
+        "alt": "⛴",
+        "class": "e129 c4 emoji"
+    },
+    ":recycle:": {
+        "alt": "♻",
+        "class": "e96 c6 emoji"
+    },
+    ":flag-td:": {
+        "alt": "🇹🇩",
+        "class": "e442 c7 emoji"
+    },
+    ":tickets:": {
+        "alt": "🎟",
+        "class": "e649 c3 emoji"
+    },
+    ":dash:": {
+        "alt": "💨",
+        "class": "e1412 c1 emoji"
+    },
+    ":leaves:": {
+        "alt": "🍃",
+        "class": "e557 c1 emoji"
+    },
+    ":pig2:": {
+        "alt": "🐖",
+        "class": "e826 c1 emoji"
+    },
+    ":urn:": {
+        "alt": "⚱",
+        "class": "e112 c5 emoji"
+    },
+    ":flower_playing_cards:": {
+        "alt": "🎴",
+        "class": "e670 c6 emoji"
+    },
+    ":back:": {
+        "alt": "🔙",
+        "class": "e1529 c6 emoji"
+    },
+    ":dromedary_camel:": {
+        "alt": "🐪",
+        "class": "e846 c1 emoji"
+    },
+    ":cactus:": {
+        "alt": "🌵",
+        "class": "e543 c1 emoji"
+    },
+    ":meat_on_bone:": {
+        "alt": "🍖",
+        "class": "e576 c2 emoji"
+    },
+    ":aries:": {
+        "alt": "♈",
+        "class": "e79 c6 emoji"
+    },
+    ":flag-bs:": {
+        "alt": "🇧🇸",
+        "class": "e261 c7 emoji"
+    },
+    ":grapes:": {
+        "alt": "🍇",
+        "class": "e561 c2 emoji"
+    },
+    ":calendar:": {
+        "alt": "📆",
+        "class": "e1447 c5 emoji"
+    },
+    "SHORTCODE_267": {
+        "alt": "🦃",
+        "class": "e2159 c1 emoji"
+    },
+    ":flag-ag:": {
+        "alt": "🇦🇬",
+        "class": "e233 c7 emoji"
+    },
+    ":flag-kn:": {
+        "alt": "🇰🇳",
+        "class": "e349 c7 emoji"
+    },
+    ":underage:": {
+        "alt": "🔞",
+        "class": "e1534 c6 emoji"
+    },
+    ":cloudy:": {
+        "alt": "🌥",
+        "class": "e527 c1 emoji"
+    },
+    ":u6e80:": {
+        "alt": "🈵",
+        "class": "e484 c6 emoji"
+    },
+    ":plane:": {
+        "alt": "🛩",
+        "class": "e1965 c4 emoji"
+    },
+    ":arrow_upper_left:": {
+        "alt": "↖",
+        "class": "e21 c6 emoji"
+    },
+    ":flag-gn:": {
+        "alt": "🇬🇳",
+        "class": "e315 c7 emoji"
+    },
+    ":clock8:": {
+        "alt": "🕗",
+        "class": "e1579 c6 emoji"
+    },
+    ":tiger2:": {
+        "alt": "🐅",
+        "class": "e809 c1 emoji"
+    },
+    ":first_quarter_moon_with_face:": {
+        "alt": "🌛",
+        "class": "e519 c1 emoji"
+    },
+    ":flag-mu:": {
+        "alt": "🇲🇺",
+        "class": "e382 c7 emoji"
+    },
+    ":joy:": {
+        "alt": "😂",
+        "class": "e1678 c0 emoji"
+    },
+    ":heavy_division_sign:": {
+        "alt": "➗",
+        "class": "e196 c6 emoji"
+    },
+    ":fire_engine:": {
+        "alt": "🚒",
+        "class": "e1850 c4 emoji"
+    },
+    ":snake:": {
+        "alt": "🐍",
+        "class": "e817 c1 emoji"
+    },
+    ":bug:": {
+        "alt": "🐛",
+        "class": "e831 c1 emoji"
+    },
+    ":wolf:": {
+        "alt": "🐺",
+        "class": "e862 c1 emoji"
+    },
+    ":aquarius:": {
+        "alt": "♒",
+        "class": "e89 c6 emoji"
+    },
+    "not-found-:two_women_with_heart:": {
+        "alt": "◼",
+        "class": "emojie50"
+    },
+    ":mens:": {
+        "alt": "🚹",
+        "class": "e1933 c6 emoji"
+    },
+    ":office:": {
+        "alt": "🏢",
+        "class": "e776 c4 emoji"
+    },
+    ":clock230:": {
+        "alt": "🕝",
+        "class": "e1585 c6 emoji"
+    },
+    "crane": {
+        "alt": "🏗",
+        "class": "e765 c4 emoji"
+    },
+    ":praying_under_house:": {
+        "alt": "🛐",
+        "class": "e1956 c6 emoji"
+    },
+    ":egg:": {
+        "alt": "🍳",
+        "class": "e605 c2 emoji"
+    },
+    ":clock1230:": {
+        "alt": "🕧",
+        "class": "e1595 c6 emoji"
+    },
+    ":timer:": {
+        "alt": "⏲",
+        "class": "e39 c5 emoji"
+    },
+    ":no_bicycles:": {
+        "alt": "🚳",
+        "class": "e1894 c6 emoji"
+    },
+    ":flag-ph:": {
+        "alt": "🇵🇭",
+        "class": "e405 c7 emoji"
+    },
+    ":flag-cn:": {
+        "alt": "🇨🇳",
+        "class": "e276 c7 emoji"
+    },
+    ":passport_control:": {
+        "alt": "🛂",
+        "class": "e1947 c6 emoji"
+    },
+    ":email:": {
+        "alt": "✉",
+        "class": "e150 c5 emoji"
+    },
+    ":kimono:": {
+        "alt": "👘",
+        "class": "e958 c0 emoji"
+    },
+    ":newspaper_folded": {
+        "alt": "🗞",
+        "class": "e1664 c5 emoji"
+    },
+    ":file_folders:": {
+        "alt": "🗂",
+        "class": "e1656 c5 emoji"
+    },
+    ":zero:": {
+        "alt": "0⃣",
+        "class": "e3 c6 emoji"
+    },
+    ":suspension_railway:": {
+        "alt": "🚟",
+        "class": "e1863 c4 emoji"
+    },
+    ":evergreen_tree:": {
+        "alt": "🌲",
+        "class": "e540 c1 emoji"
+    },
+    ":taco:": {
+        "alt": "🌮",
+        "class": "e536 c2 emoji"
+    },
+    ":spider:": {
+        "alt": "🕷",
+        "class": "e1618 c1 emoji"
+    },
+    ":paperclip:": {
+        "alt": "📎",
+        "class": "e1455 c5 emoji"
+    },
+    ":flag-mw:": {
+        "alt": "🇲🇼",
+        "class": "e384 c7 emoji"
+    },
+    ":a:": {
+        "alt": "🅰",
+        "class": "e215 c6 emoji"
+    },
+    ":filing_box:": {
+        "alt": "🗃",
+        "class": "e1657 c5 emoji"
+    },
+    ":flag-lt:": {
+        "alt": "🇱🇹",
+        "class": "e362 c7 emoji"
+    },
+    ":credit_card:": {
+        "alt": "💳",
+        "class": "e1428 c5 emoji"
+    },
+    ":clock7:": {
+        "alt": "🕖",
+        "class": "e1578 c6 emoji"
+    },
+    ":open_file_folder:": {
+        "alt": "📂",
+        "class": "e1443 c5 emoji"
+    },
+    ":monkey_face:": {
+        "alt": "🐵",
+        "class": "e857 c1 emoji"
+    },
+    ":flag-ir:": {
+        "alt": "🇮🇷",
+        "class": "e337 c7 emoji"
+    },
+    ":dragon_face:": {
+        "alt": "🐲",
+        "class": "e854 c1 emoji"
+    },
+    ":salsa_girl:": {
+        "alt": "💃",
+        "class": "e1339 c0 emoji"
+    },
+    ":ant:": {
+        "alt": "🐜",
+        "class": "e832 c1 emoji"
+    },
+    ":flag-ba:": {
+        "alt": "🇧🇦",
+        "class": "e246 c7 emoji"
+    },
+    ":last_quarter_moon:": {
+        "alt": "🌗",
+        "class": "e515 c1 emoji"
+    },
+    ":roller_coaster:": {
+        "alt": "🎢",
+        "class": "e652 c4 emoji"
+    },
+    ":flag-vi:": {
+        "alt": "🇻🇮",
+        "class": "e466 c7 emoji"
+    },
+    ":clock1:": {
+        "alt": "🕐",
+        "class": "e1572 c6 emoji"
+    },
+    ":flag-me:": {
+        "alt": "🇲🇪",
+        "class": "e369 c7 emoji"
+    },
+    ":heartbeat:": {
+        "alt": "💓",
+        "class": "e1391 c6 emoji"
+    },
+    ":family_3:": {
+        "alt": "👨‍👩‍👦‍👦",
+        "class": "e1199 c0 emoji"
+    },
+    ":arrow_double_down:": {
+        "alt": "⏬",
+        "class": "e33 c6 emoji"
+    },
+    ":flag-gg:": {
+        "alt": "🇬🇬",
+        "class": "e310 c7 emoji"
+    },
+    ":mouse2:": {
+        "alt": "🐁",
+        "class": "e805 c1 emoji"
+    },
+    ":flag-sr:": {
+        "alt": "🇸🇷",
+        "class": "e434 c7 emoji"
+    },
+    ":flag-sb:": {
+        "alt": "🇸🇧",
+        "class": "e422 c7 emoji"
+    },
+    ":flag-ch:": {
+        "alt": "🇨🇭",
+        "class": "e271 c7 emoji"
+    },
+    ":trident:": {
+        "alt": "🔱",
+        "class": "e1553 c6 emoji"
+    },
+    ":chart:": {
+        "alt": "💹",
+        "class": "e1434 c6 emoji"
+    },
+    ":flag-eg:": {
+        "alt": "🇪🇬",
+        "class": "e293 c7 emoji"
+    },
+    ":warning:": {
+        "alt": "⚠",
+        "class": "e107 c6 emoji"
+    },
+    ":two_hearts:": {
+        "alt": "💕",
+        "class": "e1393 c6 emoji"
+    },
+    ":manhole:": {
+        "alt": "🕳",
+        "class": "e1598 c5 emoji"
+    },
+    "SHORTCODE_946": {
+        "alt": "*⃣",
+        "class": "e2 c6 emoji"
+    },
+    ":flag-rs:": {
+        "alt": "🇷🇸",
+        "class": "e418 c7 emoji"
+    },
+    ":hearts:": {
+        "alt": "♥",
+        "class": "e93 c6 emoji"
+    },
+    ":heart_eyes_cat:": {
+        "alt": "😻",
+        "class": "e1735 c0 emoji"
+    },
+    "SHORTCODE_568": {
+        "alt": "🏟",
+        "class": "e773 c4 emoji"
+    },
+    ":flag-be:": {
+        "alt": "🇧🇪",
+        "class": "e249 c7 emoji"
+    },
+    ":clock130:": {
+        "alt": "🕜",
+        "class": "e1584 c6 emoji"
+    },
+    ":radio:": {
+        "alt": "📻",
+        "class": "e1500 c5 emoji"
+    },
+    ":flag-cw:": {
+        "alt": "🇨🇼",
+        "class": "e281 c7 emoji"
+    },
+    ":rainbow:": {
+        "alt": "🌈",
+        "class": "e500 c1 emoji"
+    },
+    ":write:": {
+        "alt": "✍",
+        "class": "e169 c0 emoji"
+    },
+    ":rice:": {
+        "alt": "🍚",
+        "class": "e580 c2 emoji"
+    },
+    ":fist_bump:": {
+        "alt": "👊",
+        "class": "e909 c0 emoji"
+    },
+    ":on:": {
+        "alt": "🔛",
+        "class": "e1531 c6 emoji"
+    },
+    ":necktie:": {
+        "alt": "👔",
+        "class": "e954 c0 emoji"
+    },
+    ":tea:": {
+        "alt": "🍵",
+        "class": "e607 c2 emoji"
+    },
+    ":honey_pot:": {
+        "alt": "🍯",
+        "class": "e601 c2 emoji"
+    },
+    ":clock10:": {
+        "alt": "🕙",
+        "class": "e1581 c6 emoji"
+    },
+    ":flag-no:": {
+        "alt": "🇳🇴",
+        "class": "e395 c7 emoji"
+    },
+    ":children_crossing:": {
+        "alt": "🚸",
+        "class": "e1932 c6 emoji"
+    },
+    ":flag-ar:": {
+        "alt": "🇦🇷",
+        "class": "e239 c7 emoji"
+    },
+    ":bookmark_tabs:": {
+        "alt": "📑",
+        "class": "e1458 c5 emoji"
+    },
+    ":wind_chime:": {
+        "alt": "🎐",
+        "class": "e639 c5 emoji"
+    },
+    ":flag-gy:": {
+        "alt": "🇬🇾",
+        "class": "e323 c7 emoji"
+    },
+    ":flag-ws:": {
+        "alt": "🇼🇸",
+        "class": "e470 c7 emoji"
+    },
+    ":poultry_leg:": {
+        "alt": "🍗",
+        "class": "e577 c2 emoji"
+    },
+    ":turtle:": {
+        "alt": "🐢",
+        "class": "e838 c1 emoji"
+    },
+    ":dancers:": {
+        "alt": "👯",
+        "class": "e1229 c0 emoji"
+    },
+    ":u6307:": {
+        "alt": "🈯",
+        "class": "e480 c6 emoji"
+    },
+    ":sleeping:": {
+        "alt": "😴",
+        "class": "e1728 c0 emoji"
+    },
+    ":gun:": {
+        "alt": "🔫",
+        "class": "e1547 c5 emoji"
+    },
+    ":rocket:": {
+        "alt": "🚀",
+        "class": "e1832 c4 emoji"
+    },
+    ":flag-bh:": {
+        "alt": "🇧🇭",
+        "class": "e252 c7 emoji"
+    },
+    ":cocktail:": {
+        "alt": "🍸",
+        "class": "e610 c2 emoji"
+    },
+    ":blue_car:": {
+        "alt": "🚙",
+        "class": "e1857 c4 emoji"
+    },
+    ":arrow_up_small:": {
+        "alt": "🔼",
+        "class": "e1564 c6 emoji"
+    },
+    ":flag-tk:": {
+        "alt": "🇹🇰",
+        "class": "e447 c7 emoji"
+    },
+    ":painting:": {
+        "alt": "🖼",
+        "class": "e1655 c5 emoji"
+    },
+    ":flag-bz:": {
+        "alt": "🇧🇿",
+        "class": "e265 c7 emoji"
+    },
+    ":flag-tr:": {
+        "alt": "🇹🇷",
+        "class": "e452 c7 emoji"
+    },
+    ":honeybee:": {
+        "alt": "🐝",
+        "class": "e833 c1 emoji"
+    },
+    ":notebook_with_decorative_cover:": {
+        "alt": "📔",
+        "class": "e1461 c5 emoji"
+    },
+    ":flag-sk:": {
+        "alt": "🇸🇰",
+        "class": "e429 c7 emoji"
+    },
+    ":camel:": {
+        "alt": "🐫",
+        "class": "e847 c1 emoji"
+    },
+    ":family_14:": {
+        "alt": "👨‍👨‍👧‍👧",
+        "class": "e1197 c0 emoji"
+    },
+    ":o2:": {
+        "alt": "🅾",
+        "class": "e217 c6 emoji"
+    },
+    ":flag-ie:": {
+        "alt": "🇮🇪",
+        "class": "e331 c7 emoji"
+    },
+    ":smiley_cat:": {
+        "alt": "😺",
+        "class": "e1734 c0 emoji"
+    },
+    ":newspaper:": {
+        "alt": "📰",
+        "class": "e1489 c5 emoji"
+    },
+    ":cow:": {
+        "alt": "🐮",
+        "class": "e850 c1 emoji"
+    },
+    ":floppy_disk:": {
+        "alt": "💾",
+        "class": "e1439 c5 emoji"
+    },
+    ":rice_ball:": {
+        "alt": "🍙",
+        "class": "e579 c2 emoji"
+    },
+    ":flag-au:": {
+        "alt": "🇦🇺",
+        "class": "e242 c7 emoji"
+    },
+    ":flag-tw:": {
+        "alt": "🇹🇼",
+        "class": "e455 c7 emoji"
+    },
+    ":gift_heart:": {
+        "alt": "💝",
+        "class": "e1401 c6 emoji"
+    },
+    ":feet:": {
+        "alt": "👣",
+        "class": "e969 c0 emoji"
+    },
+    ":flag-jo:": {
+        "alt": "🇯🇴",
+        "class": "e342 c7 emoji"
+    },
+    ":trumpet:": {
+        "alt": "🎺",
+        "class": "e676 c3 emoji"
+    },
+    ":couch_lamp:": {
+        "alt": "🛋",
+        "class": "e1951 c5 emoji"
+    }
+}
